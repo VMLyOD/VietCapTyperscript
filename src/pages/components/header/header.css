@@ -1,0 +1,12 @@
+.myheader-right {
+  display: flex;
+  width: 256px;
+  /* margin-right: 10px; */
+  height: 24px;
+  /* background: gray; */
+  column-gap: 8px;
+}
+
+.button-link-stock links:hover {
+  background: green;
+}

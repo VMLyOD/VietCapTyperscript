@@ -1,0 +1,69 @@
+.dropbtn {
+  background: none;
+  color: white;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  column-gap: 6px;
+}
+
+/* .is-Horvers {
+  background-color: green;
+} */
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  /* background-color: #f9f9f9; */
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+a {
+  border-radius: 2px;
+}
+
+.dropdown-content li:hover a:hover {
+  color: #00b71f;
+  background: #00b71f75;
+}
+
+li {
+  list-style-type: none;
+  position: relative;
+  left: -8px;
+  top: 6px;
+  transition: none 0s ease 0s;
+  cursor: move;
+}
+
+.dropdown-content a {
+  background: #27272a;
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  /* background-color: black; */
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  /* color: green; */
+}
+
+.Login-btn {
+  color: white;
+}

@@ -1,0 +1,26 @@
+@import "../../pages/components/header/header";
+@import "../../pages/components/Login/Login";
+@import "../../pages/components/slideList/SlideList";
+@import "../../pages/components/NavSort//Navsort";
+@import "../../components//icon//IconStyle";
+
+#root {
+    // background-color: black;
+    width: 100%;
+    font-family: "Manrope", sans-serif;
+    height: 100vh;
+}
+
+.mainRoutes {
+    background-color: red;
+}
+.myheader-container {
+    background-color: black;
+}
+
+.img-icon {
+    align-items: center;
+    margin-left: 5px;
+    width: 24px;
+    height: 24px;
+}

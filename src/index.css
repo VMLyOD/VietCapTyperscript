@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  font-family: "Manrope", sans-serif;
+  color: white;
+  background-color: black;
+  height: 100%;
+  width: 100%;
+}
+
+.color-custom {
+  background: #27272a;
+}
+
+button:focus {
+  background: green;
+}
+Link:active {
+  background: green;
+}
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  height: 100vh;
+  place-items: center;
+  background-color: black;
+}
+
+h1 {
+  font-size: 3.2em;
+}
+
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
