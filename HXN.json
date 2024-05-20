@@ -1,0 +1,4085 @@
+[
+    {
+        "listingInfo": {
+            "code": "BCC",
+            "symbol": "BCC",
+            "ceiling": 10500,
+            "floor": 8700,
+            "refPrice": 9600,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "Bim Son Cement Joint Stock Company",
+            "enOrganShortName": "Bim Son Cement",
+            "organName": "Công ty Cổ phần Xi măng Bỉm Sơn",
+            "organShortName": "Xi măng Bỉm Sơn",
+            "ticker": "BCC"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 9500,
+                    "volume": 28300
+                },
+                {
+                    "price": 9400,
+                    "volume": 59200
+                },
+                {
+                    "price": 9300,
+                    "volume": 36900
+                },
+                {
+                    "price": 9200,
+                    "volume": 16800
+                },
+                {
+                    "price": 9100,
+                    "volume": 17000
+                },
+                {
+                    "price": 9000,
+                    "volume": 43300
+                },
+                {
+                    "price": 8900,
+                    "volume": 4900
+                },
+                {
+                    "price": 8800,
+                    "volume": 19600
+                },
+                {
+                    "price": 8700,
+                    "volume": 16700
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 9600,
+                    "volume": 26200
+                },
+                {
+                    "price": 9700,
+                    "volume": 82400
+                },
+                {
+                    "price": 9800,
+                    "volume": 72000
+                },
+                {
+                    "price": 9900,
+                    "volume": 29300
+                },
+                {
+                    "price": 10000,
+                    "volume": 40000
+                },
+                {
+                    "price": 10100,
+                    "volume": 20600
+                },
+                {
+                    "price": 10200,
+                    "volume": 24300
+                },
+                {
+                    "price": 10300,
+                    "volume": 12300
+                },
+                {
+                    "price": 10400,
+                    "volume": 74800
+                },
+                {
+                    "price": 10500,
+                    "volume": 116200
+                }
+            ],
+            "code": "BCC",
+            "symbol": "BCC",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:06:54.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "BCC",
+            "symbol": "BCC",
+            "matchPrice": 9500,
+            "matchVol": 1800,
+            "highest": 9700,
+            "lowest": 9000,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 9600,
+            "ceilingPrice": 10500,
+            "floorPrice": 8700,
+            "accumulatedVolume": 194500,
+            "accumulatedValue": 1856.91,
+            "avgMatchPrice": 9547.095115681233,
+            "totalBuyOrders": 221,
+            "totalSellOrders": 221,
+            "currentRoom": 59463038,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:04:54.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "BVS",
+            "symbol": "BVS",
+            "ceiling": 35800,
+            "floor": 29400,
+            "refPrice": 32600,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:26.000Z",
+            "board": "HNX",
+            "enOrganName": "Bao Viet Securities Company",
+            "enOrganShortName": "Bao Viet Securities",
+            "organName": "Công ty Cổ phần Chứng khoán Bảo Việt",
+            "organShortName": "Chứng khoán Bảo Việt",
+            "ticker": "BVS"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 31600,
+                    "volume": 12600
+                },
+                {
+                    "price": 31500,
+                    "volume": 28600
+                },
+                {
+                    "price": 31400,
+                    "volume": 4000
+                },
+                {
+                    "price": 31300,
+                    "volume": 5000
+                },
+                {
+                    "price": 31200,
+                    "volume": 7900
+                },
+                {
+                    "price": 31100,
+                    "volume": 100
+                },
+                {
+                    "price": 31000,
+                    "volume": 14300
+                },
+                {
+                    "price": 30800,
+                    "volume": 3000
+                },
+                {
+                    "price": 30700,
+                    "volume": 100
+                },
+                {
+                    "price": 30500,
+                    "volume": 19400
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 31700,
+                    "volume": 1100
+                },
+                {
+                    "price": 31800,
+                    "volume": 600
+                },
+                {
+                    "price": 31900,
+                    "volume": 1000
+                },
+                {
+                    "price": 32000,
+                    "volume": 1800
+                },
+                {
+                    "price": 32100,
+                    "volume": 800
+                },
+                {
+                    "price": 32200,
+                    "volume": 5100
+                },
+                {
+                    "price": 32300,
+                    "volume": 5500
+                },
+                {
+                    "price": 32400,
+                    "volume": 2000
+                },
+                {
+                    "price": 32500,
+                    "volume": 14100
+                },
+                {
+                    "price": 32600,
+                    "volume": 10800
+                }
+            ],
+            "code": "BVS",
+            "symbol": "BVS",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:08.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "BVS",
+            "symbol": "BVS",
+            "matchPrice": 31700,
+            "matchVol": 400,
+            "highest": 32800,
+            "lowest": 31600,
+            "foreignBuyVolume": 2300,
+            "foreignSellVolume": 19500,
+            "foreignBuyValue": 74980000,
+            "foreignSellValue": 637650000,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 32600,
+            "ceilingPrice": 35800,
+            "floorPrice": 29400,
+            "accumulatedVolume": 425300,
+            "accumulatedValue": 13695.44,
+            "avgMatchPrice": 32201.833999529743,
+            "totalBuyOrders": 531,
+            "totalSellOrders": 531,
+            "currentRoom": 67798041,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:06:54.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "CAP",
+            "symbol": "CAP",
+            "ceiling": 71200,
+            "floor": 58400,
+            "refPrice": 64800,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:00:41.000Z",
+            "board": "HNX",
+            "enOrganName": "Yen Bai Joint Stock Forest Agricultural Products And Foodstuffs Company",
+            "enOrganShortName": "Yen Bai Forest Agricultural",
+            "organName": "Công ty Cổ phần Lâm Nông sản Thực phẩm Yên Bái",
+            "organShortName": "Lâm nông sản Yên Bái",
+            "ticker": "CAP"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 64700,
+                    "volume": 4000
+                },
+                {
+                    "price": 64600,
+                    "volume": 2300
+                },
+                {
+                    "price": 64500,
+                    "volume": 1800
+                },
+                {
+                    "price": 64400,
+                    "volume": 100
+                },
+                {
+                    "price": 64100,
+                    "volume": 2000
+                },
+                {
+                    "price": 64000,
+                    "volume": 5800
+                },
+                {
+                    "price": 63900,
+                    "volume": 2000
+                },
+                {
+                    "price": 63800,
+                    "volume": 500
+                },
+                {
+                    "price": 63700,
+                    "volume": 200
+                },
+                {
+                    "price": 63000,
+                    "volume": 1400
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 64800,
+                    "volume": 1500
+                },
+                {
+                    "price": 64900,
+                    "volume": 400
+                },
+                {
+                    "price": 65000,
+                    "volume": 2200
+                },
+                {
+                    "price": 65100,
+                    "volume": 200
+                },
+                {
+                    "price": 65200,
+                    "volume": 200
+                },
+                {
+                    "price": 65300,
+                    "volume": 3100
+                },
+                {
+                    "price": 65400,
+                    "volume": 5300
+                },
+                {
+                    "price": 65500,
+                    "volume": 2400
+                },
+                {
+                    "price": 65600,
+                    "volume": 1500
+                },
+                {
+                    "price": 65800,
+                    "volume": 300
+                }
+            ],
+            "code": "CAP",
+            "symbol": "CAP",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:07.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "CAP",
+            "symbol": "CAP",
+            "matchPrice": 64800,
+            "matchVol": 100,
+            "highest": 65400,
+            "lowest": 64700,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 64800,
+            "ceilingPrice": 71200,
+            "floorPrice": 58400,
+            "accumulatedVolume": 28900,
+            "accumulatedValue": 1876.63,
+            "avgMatchPrice": 64935.294117647056,
+            "totalBuyOrders": 129,
+            "totalSellOrders": 129,
+            "currentRoom": 0,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "b",
+            "time": "2024-03-25T07:05:27.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "CEO",
+            "symbol": "CEO",
+            "ceiling": 25900,
+            "floor": 21300,
+            "refPrice": 23600,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:00:43.000Z",
+            "board": "HNX",
+            "enOrganName": "CEO Group Joint Stock Company",
+            "enOrganShortName": "CEO Group",
+            "organName": "Công ty Cổ phần Tập đoàn C.E.O",
+            "organShortName": "Tập đoàn CEO",
+            "ticker": "CEO"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 23300,
+                    "volume": 302100
+                },
+                {
+                    "price": 23200,
+                    "volume": 233500
+                },
+                {
+                    "price": 23100,
+                    "volume": 160400
+                },
+                {
+                    "price": 23000,
+                    "volume": 600400
+                },
+                {
+                    "price": 22900,
+                    "volume": 52500
+                },
+                {
+                    "price": 22800,
+                    "volume": 81100
+                },
+                {
+                    "price": 22700,
+                    "volume": 115500
+                },
+                {
+                    "price": 22600,
+                    "volume": 114700
+                },
+                {
+                    "price": 22500,
+                    "volume": 220200
+                },
+                {
+                    "price": 22400,
+                    "volume": 10400
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 23400,
+                    "volume": 136600
+                },
+                {
+                    "price": 23500,
+                    "volume": 181200
+                },
+                {
+                    "price": 23600,
+                    "volume": 158800
+                },
+                {
+                    "price": 23700,
+                    "volume": 139400
+                },
+                {
+                    "price": 23800,
+                    "volume": 220900
+                },
+                {
+                    "price": 23900,
+                    "volume": 362900
+                },
+                {
+                    "price": 24000,
+                    "volume": 853800
+                },
+                {
+                    "price": 24100,
+                    "volume": 367200
+                },
+                {
+                    "price": 24200,
+                    "volume": 854100
+                },
+                {
+                    "price": 24300,
+                    "volume": 1233300
+                }
+            ],
+            "code": "CEO",
+            "symbol": "CEO",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:20.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "CEO",
+            "symbol": "CEO",
+            "matchPrice": 23300,
+            "matchVol": 500,
+            "highest": 24300,
+            "lowest": 23300,
+            "foreignBuyVolume": 121220,
+            "foreignSellVolume": 19300,
+            "foreignBuyValue": 2900766700,
+            "foreignSellValue": 461710000,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 23600,
+            "ceilingPrice": 25900,
+            "floorPrice": 21300,
+            "accumulatedVolume": 16071800,
+            "accumulatedValue": 382588.58,
+            "avgMatchPrice": 23804.961485334563,
+            "totalBuyOrders": 10697,
+            "totalSellOrders": 10697,
+            "currentRoom": 224578539,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:17.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "DTD",
+            "symbol": "DTD",
+            "ceiling": 32200,
+            "floor": 26400,
+            "refPrice": 29300,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "Thanh Dat Investment Development Joint Stock Company",
+            "enOrganShortName": "Thanh Dat Investment Development",
+            "organName": "Công ty Cổ phần Đầu tư Phát triển Thành Đạt",
+            "organShortName": "Đầu tư Phát triển Thành Đạt",
+            "ticker": "DTD"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 28800,
+                    "volume": 20300
+                },
+                {
+                    "price": 28700,
+                    "volume": 18700
+                },
+                {
+                    "price": 28600,
+                    "volume": 4800
+                },
+                {
+                    "price": 28500,
+                    "volume": 45700
+                },
+                {
+                    "price": 28400,
+                    "volume": 9500
+                },
+                {
+                    "price": 28300,
+                    "volume": 12700
+                },
+                {
+                    "price": 28200,
+                    "volume": 11800
+                },
+                {
+                    "price": 28100,
+                    "volume": 6700
+                },
+                {
+                    "price": 28000,
+                    "volume": 10600
+                },
+                {
+                    "price": 27900,
+                    "volume": 100
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 28900,
+                    "volume": 4500
+                },
+                {
+                    "price": 29000,
+                    "volume": 19100
+                },
+                {
+                    "price": 29100,
+                    "volume": 4200
+                },
+                {
+                    "price": 29200,
+                    "volume": 15900
+                },
+                {
+                    "price": 29300,
+                    "volume": 26600
+                },
+                {
+                    "price": 29400,
+                    "volume": 27100
+                },
+                {
+                    "price": 29500,
+                    "volume": 27100
+                },
+                {
+                    "price": 29600,
+                    "volume": 37300
+                },
+                {
+                    "price": 29700,
+                    "volume": 3200
+                },
+                {
+                    "price": 29800,
+                    "volume": 12600
+                }
+            ],
+            "code": "DTD",
+            "symbol": "DTD",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:17.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "DTD",
+            "symbol": "DTD",
+            "matchPrice": 28800,
+            "matchVol": 1000,
+            "highest": 29600,
+            "lowest": 28800,
+            "foreignBuyVolume": 200,
+            "foreignSellVolume": 600,
+            "foreignBuyValue": 5840000,
+            "foreignSellValue": 17580000,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 29300,
+            "ceilingPrice": 32200,
+            "floorPrice": 26400,
+            "accumulatedVolume": 923300,
+            "accumulatedValue": 26888.34,
+            "avgMatchPrice": 29121.997184013864,
+            "totalBuyOrders": 921,
+            "totalSellOrders": 921,
+            "currentRoom": 22203986,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:12.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "DVM",
+            "symbol": "DVM",
+            "ceiling": 12600,
+            "floor": 10400,
+            "refPrice": 11500,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "Vietnam Medicinal Materials Joint Stock Company",
+            "enOrganShortName": "Vietnam Medicinal Materials",
+            "organName": "Công ty Cổ phần Dược liệu Việt Nam",
+            "organShortName": "Dược liệu Việt Nam",
+            "ticker": "DVM"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 11300,
+                    "volume": 171400
+                },
+                {
+                    "price": 11200,
+                    "volume": 65500
+                },
+                {
+                    "price": 11100,
+                    "volume": 54500
+                },
+                {
+                    "price": 11000,
+                    "volume": 62800
+                },
+                {
+                    "price": 10900,
+                    "volume": 1000
+                },
+                {
+                    "price": 10800,
+                    "volume": 6000
+                },
+                {
+                    "price": 10700,
+                    "volume": 5000
+                },
+                {
+                    "price": 10600,
+                    "volume": 100
+                },
+                {
+                    "price": 10500,
+                    "volume": 11600
+                },
+                {
+                    "price": 10400,
+                    "volume": 300
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 11400,
+                    "volume": 45500
+                },
+                {
+                    "price": 11500,
+                    "volume": 77600
+                },
+                {
+                    "price": 11600,
+                    "volume": 68400
+                },
+                {
+                    "price": 11700,
+                    "volume": 101600
+                },
+                {
+                    "price": 11800,
+                    "volume": 96600
+                },
+                {
+                    "price": 11900,
+                    "volume": 35700
+                },
+                {
+                    "price": 12000,
+                    "volume": 41600
+                },
+                {
+                    "price": 12100,
+                    "volume": 14900
+                },
+                {
+                    "price": 12200,
+                    "volume": 46600
+                },
+                {
+                    "price": 12300,
+                    "volume": 1400
+                }
+            ],
+            "code": "DVM",
+            "symbol": "DVM",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:03.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "DVM",
+            "symbol": "DVM",
+            "matchPrice": 11400,
+            "matchVol": 600,
+            "highest": 11500,
+            "lowest": 11400,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 11500,
+            "ceilingPrice": 12600,
+            "floorPrice": 10400,
+            "accumulatedVolume": 308000,
+            "accumulatedValue": 3517.6,
+            "avgMatchPrice": 11420.77922077922,
+            "totalBuyOrders": 202,
+            "totalSellOrders": 202,
+            "currentRoom": 0,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "b",
+            "time": "2024-03-25T07:06:39.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "DXP",
+            "symbol": "DXP",
+            "ceiling": 15200,
+            "floor": 12600,
+            "refPrice": 13900,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:26.000Z",
+            "board": "HNX",
+            "enOrganName": "Doan Xa Port Joint Stock Company",
+            "enOrganShortName": "Doan Xa Port",
+            "organName": "Công ty Cổ phần Cảng Đoạn Xá",
+            "organShortName": "Cảng Đoạn Xá",
+            "ticker": "DXP"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 13700,
+                    "volume": 20400
+                },
+                {
+                    "price": 13600,
+                    "volume": 29800
+                },
+                {
+                    "price": 13500,
+                    "volume": 42300
+                },
+                {
+                    "price": 13400,
+                    "volume": 13300
+                },
+                {
+                    "price": 13300,
+                    "volume": 4000
+                },
+                {
+                    "price": 13200,
+                    "volume": 2900
+                },
+                {
+                    "price": 13100,
+                    "volume": 4000
+                },
+                {
+                    "price": 13000,
+                    "volume": 7500
+                },
+                {
+                    "price": 12900,
+                    "volume": 1500
+                },
+                {
+                    "price": 12800,
+                    "volume": 1100
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 13800,
+                    "volume": 4500
+                },
+                {
+                    "price": 13900,
+                    "volume": 34000
+                },
+                {
+                    "price": 14000,
+                    "volume": 30800
+                },
+                {
+                    "price": 14100,
+                    "volume": 34600
+                },
+                {
+                    "price": 14200,
+                    "volume": 10300
+                },
+                {
+                    "price": 14300,
+                    "volume": 17300
+                },
+                {
+                    "price": 14400,
+                    "volume": 20500
+                },
+                {
+                    "price": 14500,
+                    "volume": 30900
+                },
+                {
+                    "price": 14600,
+                    "volume": 7700
+                },
+                {
+                    "price": 14700,
+                    "volume": 4000
+                }
+            ],
+            "code": "DXP",
+            "symbol": "DXP",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:18.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "DXP",
+            "symbol": "DXP",
+            "matchPrice": 13700,
+            "matchVol": 200,
+            "highest": 14000,
+            "lowest": 13700,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 13900,
+            "ceilingPrice": 15200,
+            "floorPrice": 12600,
+            "accumulatedVolume": 147200,
+            "accumulatedValue": 2040.87,
+            "avgMatchPrice": 13864.60597826087,
+            "totalBuyOrders": 190,
+            "totalSellOrders": 190,
+            "currentRoom": 0,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:17.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "HLD",
+            "symbol": "HLD",
+            "ceiling": 31500,
+            "floor": 25900,
+            "refPrice": 28700,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:00:42.000Z",
+            "board": "HNX",
+            "enOrganName": "HUDLAND Real Estate Investment and Development Joint",
+            "enOrganShortName": "HUDLAND Real Estate",
+            "organName": "Công ty Cổ phần Đầu tư và Phát triển Bất động sản HUDLAND",
+            "organShortName": "Bất động sản HUDLAND",
+            "ticker": "HLD"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 28500,
+                    "volume": 8200
+                },
+                {
+                    "price": 28400,
+                    "volume": 5600
+                },
+                {
+                    "price": 28300,
+                    "volume": 1200
+                },
+                {
+                    "price": 28200,
+                    "volume": 300
+                },
+                {
+                    "price": 28100,
+                    "volume": 2500
+                },
+                {
+                    "price": 28000,
+                    "volume": 5300
+                },
+                {
+                    "price": 27500,
+                    "volume": 300
+                },
+                {
+                    "price": 27000,
+                    "volume": 500
+                },
+                {
+                    "price": 26700,
+                    "volume": 100
+                },
+                {
+                    "price": 26000,
+                    "volume": 6700
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 28700,
+                    "volume": 2000
+                },
+                {
+                    "price": 28800,
+                    "volume": 1600
+                },
+                {
+                    "price": 28900,
+                    "volume": 3900
+                },
+                {
+                    "price": 29000,
+                    "volume": 5000
+                },
+                {
+                    "price": 29900,
+                    "volume": 1000
+                },
+                {
+                    "price": 30900,
+                    "volume": 1000
+                },
+                {
+                    "price": 31000,
+                    "volume": 43800
+                },
+                {
+                    "price": 31200,
+                    "volume": 2000
+                },
+                {
+                    "price": 31300,
+                    "volume": 2000
+                },
+                {
+                    "price": 31400,
+                    "volume": 2200
+                }
+            ],
+            "code": "HLD",
+            "symbol": "HLD",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:06:13.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "HLD",
+            "symbol": "HLD",
+            "matchPrice": 28500,
+            "matchVol": 100,
+            "highest": 28900,
+            "lowest": 28300,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 28700,
+            "ceilingPrice": 31500,
+            "floorPrice": 25900,
+            "accumulatedVolume": 39300,
+            "accumulatedValue": 1126.47,
+            "avgMatchPrice": 28663.358778625956,
+            "totalBuyOrders": 80,
+            "totalSellOrders": 80,
+            "currentRoom": 8947340,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:05:33.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "HUT",
+            "symbol": "HUT",
+            "ceiling": 21100,
+            "floor": 17300,
+            "refPrice": 19200,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:26.000Z",
+            "board": "HNX",
+            "enOrganName": "Tasco Joint Stock Company",
+            "enOrganShortName": "HUD - Tasco",
+            "organName": "Công ty Cổ phần Tasco",
+            "organShortName": "HUD - Tasco",
+            "ticker": "HUT"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 19200,
+                    "volume": 395700
+                },
+                {
+                    "price": 19100,
+                    "volume": 390500
+                },
+                {
+                    "price": 19000,
+                    "volume": 390400
+                },
+                {
+                    "price": 18900,
+                    "volume": 171700
+                },
+                {
+                    "price": 18800,
+                    "volume": 173000
+                },
+                {
+                    "price": 18700,
+                    "volume": 33500
+                },
+                {
+                    "price": 18600,
+                    "volume": 17100
+                },
+                {
+                    "price": 18500,
+                    "volume": 94800
+                },
+                {
+                    "price": 18400,
+                    "volume": 24100
+                },
+                {
+                    "price": 18300,
+                    "volume": 19000
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 19300,
+                    "volume": 111700
+                },
+                {
+                    "price": 19400,
+                    "volume": 168600
+                },
+                {
+                    "price": 19500,
+                    "volume": 330100
+                },
+                {
+                    "price": 19600,
+                    "volume": 401700
+                },
+                {
+                    "price": 19700,
+                    "volume": 597300
+                },
+                {
+                    "price": 19800,
+                    "volume": 301400
+                },
+                {
+                    "price": 19900,
+                    "volume": 232400
+                },
+                {
+                    "price": 20000,
+                    "volume": 468700
+                },
+                {
+                    "price": 20100,
+                    "volume": 54600
+                },
+                {
+                    "price": 20200,
+                    "volume": 79800
+                }
+            ],
+            "code": "HUT",
+            "symbol": "HUT",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:19.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "HUT",
+            "symbol": "HUT",
+            "matchPrice": 19200,
+            "matchVol": 100,
+            "highest": 19700,
+            "lowest": 19200,
+            "foreignBuyVolume": 25600,
+            "foreignSellVolume": 827,
+            "foreignBuyValue": 501760000,
+            "foreignSellValue": 16079200,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 19200,
+            "ceilingPrice": 21100,
+            "floorPrice": 17300,
+            "accumulatedVolume": 4983500,
+            "accumulatedValue": 96876.21,
+            "avgMatchPrice": 19439.39199357881,
+            "totalBuyOrders": 2916,
+            "totalSellOrders": 2916,
+            "currentRoom": 430626291,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:16.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "IDC",
+            "symbol": "IDC",
+            "ceiling": 65400,
+            "floor": 53600,
+            "refPrice": 59500,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:00:41.000Z",
+            "board": "HNX",
+            "enOrganName": "IDICO Corporation - JSC",
+            "enOrganShortName": "IDICO",
+            "organName": "Tổng Công ty IDICO - CTCP",
+            "organShortName": "IDICO",
+            "ticker": "IDC"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 58100,
+                    "volume": 3000
+                },
+                {
+                    "price": 58000,
+                    "volume": 99300
+                },
+                {
+                    "price": 57900,
+                    "volume": 7300
+                },
+                {
+                    "price": 57800,
+                    "volume": 50600
+                },
+                {
+                    "price": 57700,
+                    "volume": 112100
+                },
+                {
+                    "price": 57600,
+                    "volume": 1600
+                },
+                {
+                    "price": 57500,
+                    "volume": 16600
+                },
+                {
+                    "price": 57400,
+                    "volume": 700
+                },
+                {
+                    "price": 57300,
+                    "volume": 5900
+                },
+                {
+                    "price": 57200,
+                    "volume": 200
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 58300,
+                    "volume": 8500
+                },
+                {
+                    "price": 58400,
+                    "volume": 21700
+                },
+                {
+                    "price": 58500,
+                    "volume": 26500
+                },
+                {
+                    "price": 58600,
+                    "volume": 24500
+                },
+                {
+                    "price": 58700,
+                    "volume": 16100
+                },
+                {
+                    "price": 58800,
+                    "volume": 25700
+                },
+                {
+                    "price": 58900,
+                    "volume": 15900
+                },
+                {
+                    "price": 59000,
+                    "volume": 45200
+                },
+                {
+                    "price": 59100,
+                    "volume": 11100
+                },
+                {
+                    "price": 59200,
+                    "volume": 15900
+                }
+            ],
+            "code": "IDC",
+            "symbol": "IDC",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:19.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "IDC",
+            "symbol": "IDC",
+            "matchPrice": 58100,
+            "matchVol": 500,
+            "highest": 59500,
+            "lowest": 58000,
+            "foreignBuyVolume": 89300,
+            "foreignSellVolume": 37100,
+            "foreignBuyValue": 5246420000,
+            "foreignSellValue": 2191650000,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 59500,
+            "ceilingPrice": 65400,
+            "floorPrice": 53600,
+            "accumulatedVolume": 1453000,
+            "accumulatedValue": 85343.63,
+            "avgMatchPrice": 58736.15278733655,
+            "totalBuyOrders": 1753,
+            "totalSellOrders": 1753,
+            "currentRoom": 92344802,
+            "ptAccumulatedVolume": 350000,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:20.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "L14",
+            "symbol": "L14",
+            "ceiling": 50800,
+            "floor": 41600,
+            "refPrice": 46200,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "Licogi 14 Joint Stock Company",
+            "enOrganShortName": "Licogi 14",
+            "organName": "Công ty Cổ phần Licogi 14",
+            "organShortName": "Licogi 14",
+            "ticker": "L14"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 46000,
+                    "volume": 55300
+                },
+                {
+                    "price": 45900,
+                    "volume": 13800
+                },
+                {
+                    "price": 45800,
+                    "volume": 23500
+                },
+                {
+                    "price": 45700,
+                    "volume": 3800
+                },
+                {
+                    "price": 45600,
+                    "volume": 10400
+                },
+                {
+                    "price": 45500,
+                    "volume": 17900
+                },
+                {
+                    "price": 45400,
+                    "volume": 4100
+                },
+                {
+                    "price": 45300,
+                    "volume": 200
+                },
+                {
+                    "price": 45200,
+                    "volume": 4000
+                },
+                {
+                    "price": 45100,
+                    "volume": 300
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 46200,
+                    "volume": 7100
+                },
+                {
+                    "price": 46300,
+                    "volume": 1200
+                },
+                {
+                    "price": 46400,
+                    "volume": 8700
+                },
+                {
+                    "price": 46500,
+                    "volume": 1400
+                },
+                {
+                    "price": 46600,
+                    "volume": 1700
+                },
+                {
+                    "price": 46700,
+                    "volume": 3600
+                },
+                {
+                    "price": 46800,
+                    "volume": 5700
+                },
+                {
+                    "price": 46900,
+                    "volume": 10100
+                },
+                {
+                    "price": 47000,
+                    "volume": 51300
+                },
+                {
+                    "price": 47100,
+                    "volume": 5500
+                }
+            ],
+            "code": "L14",
+            "symbol": "L14",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:18.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "L14",
+            "symbol": "L14",
+            "matchPrice": 46000,
+            "matchVol": 400,
+            "highest": 47100,
+            "lowest": 45700,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 46200,
+            "ceilingPrice": 50800,
+            "floorPrice": 41600,
+            "accumulatedVolume": 614600,
+            "accumulatedValue": 28522.99,
+            "avgMatchPrice": 46409.03026358607,
+            "totalBuyOrders": 1014,
+            "totalSellOrders": 1014,
+            "currentRoom": 14957103,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:19.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "L18",
+            "symbol": "L18",
+            "ceiling": 52900,
+            "floor": 43300,
+            "refPrice": 48100,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:00:44.000Z",
+            "board": "HNX",
+            "enOrganName": "Construction and Investment Joint Stock Company No18",
+            "enOrganShortName": "Licogi 18",
+            "organName": "Công ty Cổ phần Đầu tư và Xây dựng số 18",
+            "organShortName": "LICOGI - 18",
+            "ticker": "L18"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 47300,
+                    "volume": 2100
+                },
+                {
+                    "price": 47200,
+                    "volume": 100
+                },
+                {
+                    "price": 47100,
+                    "volume": 4100
+                },
+                {
+                    "price": 47000,
+                    "volume": 900
+                },
+                {
+                    "price": 45500,
+                    "volume": 1000
+                },
+                {
+                    "price": 45000,
+                    "volume": 2100
+                },
+                {
+                    "price": 44500,
+                    "volume": 100
+                },
+                {
+                    "price": 44000,
+                    "volume": 2000
+                },
+                {
+                    "price": 43700,
+                    "volume": 400
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 47700,
+                    "volume": 400
+                },
+                {
+                    "price": 48000,
+                    "volume": 3900
+                },
+                {
+                    "price": 48100,
+                    "volume": 2200
+                },
+                {
+                    "price": 48200,
+                    "volume": 2100
+                },
+                {
+                    "price": 48300,
+                    "volume": 300
+                },
+                {
+                    "price": 48500,
+                    "volume": 200
+                },
+                {
+                    "price": 48600,
+                    "volume": 300
+                },
+                {
+                    "price": 48800,
+                    "volume": 1700
+                },
+                {
+                    "price": 48900,
+                    "volume": 3200
+                },
+                {
+                    "price": 49000,
+                    "volume": 4500
+                }
+            ],
+            "code": "L18",
+            "symbol": "L18",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:06:01.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "L18",
+            "symbol": "L18",
+            "matchPrice": 47400,
+            "matchVol": 2000,
+            "highest": 48200,
+            "lowest": 47400,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 48100,
+            "ceilingPrice": 52900,
+            "floorPrice": 43300,
+            "accumulatedVolume": 26700,
+            "accumulatedValue": 1273.03,
+            "avgMatchPrice": 47679.026217228464,
+            "totalBuyOrders": 55,
+            "totalSellOrders": 55,
+            "currentRoom": 0,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "unknown",
+            "time": "2024-03-25T07:06:01.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "LAS",
+            "symbol": "LAS",
+            "ceiling": 21700,
+            "floor": 17900,
+            "refPrice": 19800,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "Lam Thao Fertilizers & Chemicals Joint Stock Company",
+            "enOrganShortName": "Lam Thao Fertilizers",
+            "organName": "Công ty Cổ phần Supe Phốt phát và Hóa chất Lâm Thao",
+            "organShortName": "Hóa chất Lâm Thao",
+            "ticker": "LAS"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 19900,
+                    "volume": 31200
+                },
+                {
+                    "price": 19800,
+                    "volume": 44900
+                },
+                {
+                    "price": 19700,
+                    "volume": 30200
+                },
+                {
+                    "price": 19600,
+                    "volume": 4400
+                },
+                {
+                    "price": 19500,
+                    "volume": 10300
+                },
+                {
+                    "price": 19400,
+                    "volume": 5000
+                },
+                {
+                    "price": 19300,
+                    "volume": 6200
+                },
+                {
+                    "price": 19200,
+                    "volume": 1500
+                },
+                {
+                    "price": 19000,
+                    "volume": 23300
+                },
+                {
+                    "price": 18900,
+                    "volume": 3200
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 20000,
+                    "volume": 6400
+                },
+                {
+                    "price": 20100,
+                    "volume": 12700
+                },
+                {
+                    "price": 20200,
+                    "volume": 13800
+                },
+                {
+                    "price": 20300,
+                    "volume": 6700
+                },
+                {
+                    "price": 20400,
+                    "volume": 11400
+                },
+                {
+                    "price": 20500,
+                    "volume": 75400
+                },
+                {
+                    "price": 20600,
+                    "volume": 53100
+                },
+                {
+                    "price": 20700,
+                    "volume": 22300
+                },
+                {
+                    "price": 20800,
+                    "volume": 66100
+                },
+                {
+                    "price": 20900,
+                    "volume": 33500
+                }
+            ],
+            "code": "LAS",
+            "symbol": "LAS",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:08.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "LAS",
+            "symbol": "LAS",
+            "matchPrice": 20000,
+            "matchVol": 500,
+            "highest": 20800,
+            "lowest": 19800,
+            "foreignBuyVolume": 11800,
+            "foreignSellVolume": 38700,
+            "foreignBuyValue": 239160000,
+            "foreignSellValue": 791120000,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 19800,
+            "ceilingPrice": 21700,
+            "floorPrice": 17900,
+            "accumulatedVolume": 1295600,
+            "accumulatedValue": 26363.94,
+            "avgMatchPrice": 20348.826798394566,
+            "totalBuyOrders": 953,
+            "totalSellOrders": 953,
+            "currentRoom": 53982847,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "b",
+            "time": "2024-03-25T07:06:46.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "LHC",
+            "symbol": "LHC",
+            "ceiling": 52800,
+            "floor": 43200,
+            "refPrice": 48000,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:26.000Z",
+            "board": "HNX",
+            "enOrganName": "Lam Dong Investment Hydraulic Construction Joint Stock Company",
+            "enOrganShortName": "Lam Dong Construction",
+            "organName": "Công ty Cổ phần Đầu tư và Xây dựng Thủy lợi Lâm Đồng",
+            "organShortName": "XD Thủy lợi Lâm Đồng",
+            "ticker": "LHC"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 47800,
+                    "volume": 200
+                },
+                {
+                    "price": 47400,
+                    "volume": 100
+                },
+                {
+                    "price": 47300,
+                    "volume": 1000
+                },
+                {
+                    "price": 47200,
+                    "volume": 100
+                },
+                {
+                    "price": 47100,
+                    "volume": 200
+                },
+                {
+                    "price": 47000,
+                    "volume": 6000
+                },
+                {
+                    "price": 46500,
+                    "volume": 500
+                },
+                {
+                    "price": 46000,
+                    "volume": 100
+                },
+                {
+                    "price": 45100,
+                    "volume": 300
+                },
+                {
+                    "price": 44000,
+                    "volume": 200
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 47900,
+                    "volume": 2800
+                },
+                {
+                    "price": 48000,
+                    "volume": 8100
+                },
+                {
+                    "price": 49000,
+                    "volume": 5000
+                },
+                {
+                    "price": 49400,
+                    "volume": 1100
+                },
+                {
+                    "price": 49500,
+                    "volume": 400
+                },
+                {
+                    "price": 49900,
+                    "volume": 5600
+                },
+                {
+                    "price": 50000,
+                    "volume": 1500
+                },
+                {
+                    "price": 51000,
+                    "volume": 1500
+                },
+                {
+                    "price": 52000,
+                    "volume": 1000
+                },
+                {
+                    "price": 52800,
+                    "volume": 1100
+                }
+            ],
+            "code": "LHC",
+            "symbol": "LHC",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T06:32:39.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "LHC",
+            "symbol": "LHC",
+            "matchPrice": 47900,
+            "matchVol": 200,
+            "highest": 48000,
+            "lowest": 47900,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 2800,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 134400000,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 48000,
+            "ceilingPrice": 52800,
+            "floorPrice": 43200,
+            "accumulatedVolume": 3100,
+            "accumulatedValue": 148.77,
+            "avgMatchPrice": 47990.32258064516,
+            "totalBuyOrders": 7,
+            "totalSellOrders": 7,
+            "currentRoom": 4642720,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "b",
+            "time": "2024-03-25T06:06:17.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "MBS",
+            "symbol": "MBS",
+            "ceiling": 32600,
+            "floor": 26800,
+            "refPrice": 29700,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:26.000Z",
+            "board": "HNX",
+            "enOrganName": "MB Securities Joint Stock Company",
+            "enOrganShortName": "MB Securities",
+            "organName": "Công ty Cổ phần Chứng khoán MB",
+            "organShortName": "Chứng khoán MB",
+            "ticker": "MBS"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 28800,
+                    "volume": 116800
+                },
+                {
+                    "price": 28700,
+                    "volume": 183400
+                },
+                {
+                    "price": 28600,
+                    "volume": 74300
+                },
+                {
+                    "price": 28500,
+                    "volume": 145300
+                },
+                {
+                    "price": 28400,
+                    "volume": 4000
+                },
+                {
+                    "price": 28300,
+                    "volume": 36700
+                },
+                {
+                    "price": 28200,
+                    "volume": 22800
+                },
+                {
+                    "price": 28100,
+                    "volume": 21700
+                },
+                {
+                    "price": 28000,
+                    "volume": 163000
+                },
+                {
+                    "price": 27900,
+                    "volume": 17100
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 28900,
+                    "volume": 30800
+                },
+                {
+                    "price": 29000,
+                    "volume": 85400
+                },
+                {
+                    "price": 29100,
+                    "volume": 12400
+                },
+                {
+                    "price": 29200,
+                    "volume": 27600
+                },
+                {
+                    "price": 29300,
+                    "volume": 12000
+                },
+                {
+                    "price": 29400,
+                    "volume": 6900
+                },
+                {
+                    "price": 29500,
+                    "volume": 46100
+                },
+                {
+                    "price": 29600,
+                    "volume": 8900
+                },
+                {
+                    "price": 29700,
+                    "volume": 139600
+                },
+                {
+                    "price": 29800,
+                    "volume": 125900
+                }
+            ],
+            "code": "MBS",
+            "symbol": "MBS",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:19.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "MBS",
+            "symbol": "MBS",
+            "matchPrice": 28800,
+            "matchVol": 100,
+            "highest": 29900,
+            "lowest": 28800,
+            "foreignBuyVolume": 1100,
+            "foreignSellVolume": 125,
+            "foreignBuyValue": 32350000,
+            "foreignSellValue": 3709800,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 29700,
+            "ceilingPrice": 32600,
+            "floorPrice": 26800,
+            "accumulatedVolume": 4686600,
+            "accumulatedValue": 137362.06,
+            "avgMatchPrice": 29309.53356377758,
+            "totalBuyOrders": 3487,
+            "totalSellOrders": 3487,
+            "currentRoom": 212861655,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:12.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "NBC",
+            "symbol": "NBC",
+            "ceiling": 13900,
+            "floor": 11500,
+            "refPrice": 12700,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "Vinacomin NuiBeo Coal Joint Stock Company",
+            "enOrganShortName": "Vinacomin - Nui Beo Coal",
+            "organName": "Công ty Cổ phần Than Núi Béo - Vinacomin",
+            "organShortName": "Than Núi Béo",
+            "ticker": "NBC"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 12600,
+                    "volume": 39600
+                },
+                {
+                    "price": 12500,
+                    "volume": 25800
+                },
+                {
+                    "price": 12400,
+                    "volume": 19000
+                },
+                {
+                    "price": 12300,
+                    "volume": 21100
+                },
+                {
+                    "price": 12200,
+                    "volume": 10000
+                },
+                {
+                    "price": 12100,
+                    "volume": 12500
+                },
+                {
+                    "price": 12000,
+                    "volume": 16900
+                },
+                {
+                    "price": 11900,
+                    "volume": 5000
+                },
+                {
+                    "price": 11800,
+                    "volume": 5000
+                },
+                {
+                    "price": 11700,
+                    "volume": 5000
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 12700,
+                    "volume": 5400
+                },
+                {
+                    "price": 12800,
+                    "volume": 26800
+                },
+                {
+                    "price": 12900,
+                    "volume": 17400
+                },
+                {
+                    "price": 13000,
+                    "volume": 30600
+                },
+                {
+                    "price": 13100,
+                    "volume": 1200
+                },
+                {
+                    "price": 13200,
+                    "volume": 1100
+                },
+                {
+                    "price": 13300,
+                    "volume": 1300
+                },
+                {
+                    "price": 13400,
+                    "volume": 500
+                },
+                {
+                    "price": 13500,
+                    "volume": 10800
+                },
+                {
+                    "price": 13600,
+                    "volume": 400
+                }
+            ],
+            "code": "NBC",
+            "symbol": "NBC",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:14.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "NBC",
+            "symbol": "NBC",
+            "matchPrice": 12600,
+            "matchVol": 4800,
+            "highest": 12800,
+            "lowest": 12600,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 12700,
+            "ceilingPrice": 13900,
+            "floorPrice": 11500,
+            "accumulatedVolume": 113100,
+            "accumulatedValue": 1433.78,
+            "avgMatchPrice": 12677.09991158267,
+            "totalBuyOrders": 90,
+            "totalSellOrders": 90,
+            "currentRoom": 16311048,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:04.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "PLC",
+            "symbol": "PLC",
+            "ceiling": 37200,
+            "floor": 30600,
+            "refPrice": 33900,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:00:42.000Z",
+            "board": "HNX",
+            "enOrganName": "Petrolimex Petrochemical Corporation",
+            "enOrganShortName": "Petrolimex Petrochemical",
+            "organName": "Tổng Công ty Hóa dầu Petrolimex - Công ty Cổ phần",
+            "organShortName": "Hóa dầu Petrolimex",
+            "ticker": "PLC"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 34600,
+                    "volume": 32000
+                },
+                {
+                    "price": 34500,
+                    "volume": 33100
+                },
+                {
+                    "price": 34400,
+                    "volume": 30100
+                },
+                {
+                    "price": 34300,
+                    "volume": 30300
+                },
+                {
+                    "price": 34200,
+                    "volume": 16400
+                },
+                {
+                    "price": 34100,
+                    "volume": 5800
+                },
+                {
+                    "price": 34000,
+                    "volume": 73700
+                },
+                {
+                    "price": 33900,
+                    "volume": 21000
+                },
+                {
+                    "price": 33800,
+                    "volume": 2500
+                },
+                {
+                    "price": 33700,
+                    "volume": 500
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 34700,
+                    "volume": 4100
+                },
+                {
+                    "price": 34800,
+                    "volume": 2000
+                },
+                {
+                    "price": 34900,
+                    "volume": 8700
+                },
+                {
+                    "price": 35000,
+                    "volume": 24200
+                },
+                {
+                    "price": 35100,
+                    "volume": 10800
+                },
+                {
+                    "price": 35200,
+                    "volume": 9400
+                },
+                {
+                    "price": 35300,
+                    "volume": 15000
+                },
+                {
+                    "price": 35400,
+                    "volume": 15000
+                },
+                {
+                    "price": 35500,
+                    "volume": 27400
+                },
+                {
+                    "price": 35600,
+                    "volume": 12700
+                }
+            ],
+            "code": "PLC",
+            "symbol": "PLC",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:19.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "PLC",
+            "symbol": "PLC",
+            "matchPrice": 34600,
+            "matchVol": 100,
+            "highest": 35500,
+            "lowest": 33900,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 33900,
+            "ceilingPrice": 37200,
+            "floorPrice": 30600,
+            "accumulatedVolume": 689100,
+            "accumulatedValue": 23990.52,
+            "avgMatchPrice": 34814.27949499347,
+            "totalBuyOrders": 809,
+            "totalSellOrders": 809,
+            "currentRoom": 38669790,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:19.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "PSI",
+            "symbol": "PSI",
+            "ceiling": 10200,
+            "floor": 8400,
+            "refPrice": 9300,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "Petrovietnam Securities Incorporated",
+            "enOrganShortName": "Petrovietnam Securities",
+            "organName": "Công ty Cổ phần Chứng khoán Dầu khí",
+            "organShortName": "Chứng khoán Dầu khí",
+            "ticker": "PSI"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 9200,
+                    "volume": 26300
+                },
+                {
+                    "price": 9100,
+                    "volume": 18500
+                },
+                {
+                    "price": 9000,
+                    "volume": 17500
+                },
+                {
+                    "price": 8900,
+                    "volume": 2300
+                },
+                {
+                    "price": 8800,
+                    "volume": 13300
+                },
+                {
+                    "price": 8700,
+                    "volume": 16400
+                },
+                {
+                    "price": 8600,
+                    "volume": 11900
+                },
+                {
+                    "price": 8500,
+                    "volume": 2900
+                },
+                {
+                    "price": 8400,
+                    "volume": 13500
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 9300,
+                    "volume": 16800
+                },
+                {
+                    "price": 9400,
+                    "volume": 37200
+                },
+                {
+                    "price": 9500,
+                    "volume": 80600
+                },
+                {
+                    "price": 9600,
+                    "volume": 40500
+                },
+                {
+                    "price": 9700,
+                    "volume": 12700
+                },
+                {
+                    "price": 9800,
+                    "volume": 15000
+                },
+                {
+                    "price": 9900,
+                    "volume": 3400
+                },
+                {
+                    "price": 10000,
+                    "volume": 27200
+                },
+                {
+                    "price": 10100,
+                    "volume": 19000
+                },
+                {
+                    "price": 10200,
+                    "volume": 7300
+                }
+            ],
+            "code": "PSI",
+            "symbol": "PSI",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:06:22.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "PSI",
+            "symbol": "PSI",
+            "matchPrice": 9300,
+            "matchVol": 1200,
+            "highest": 9400,
+            "lowest": 9300,
+            "foreignBuyVolume": 17000,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 159800000,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 9300,
+            "ceilingPrice": 10200,
+            "floorPrice": 8400,
+            "accumulatedVolume": 296900,
+            "accumulatedValue": 2772.47,
+            "avgMatchPrice": 9338.059952846075,
+            "totalBuyOrders": 169,
+            "totalSellOrders": 169,
+            "currentRoom": 29007587,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "b",
+            "time": "2024-03-25T07:02:43.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "PVC",
+            "symbol": "PVC",
+            "ceiling": 16000,
+            "floor": 13200,
+            "refPrice": 14600,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:26.000Z",
+            "board": "HNX",
+            "enOrganName": "Petrovietnam Chemical and Services Corporation",
+            "enOrganShortName": "Petrovietnam Chemical and Services",
+            "organName": "Tổng Công ty Hóa chất và Dịch vụ Dầu khí - Công ty Cổ phần",
+            "organShortName": "Hóa chất và Dịch vụ Dầu khí",
+            "ticker": "PVC"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 14600,
+                    "volume": 219400
+                },
+                {
+                    "price": 14500,
+                    "volume": 271500
+                },
+                {
+                    "price": 14400,
+                    "volume": 81800
+                },
+                {
+                    "price": 14300,
+                    "volume": 56500
+                },
+                {
+                    "price": 14200,
+                    "volume": 77900
+                },
+                {
+                    "price": 14100,
+                    "volume": 39000
+                },
+                {
+                    "price": 14000,
+                    "volume": 71700
+                },
+                {
+                    "price": 13900,
+                    "volume": 5000
+                },
+                {
+                    "price": 13800,
+                    "volume": 10200
+                },
+                {
+                    "price": 13700,
+                    "volume": 3200
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 14700,
+                    "volume": 21100
+                },
+                {
+                    "price": 14800,
+                    "volume": 52100
+                },
+                {
+                    "price": 14900,
+                    "volume": 156900
+                },
+                {
+                    "price": 15000,
+                    "volume": 733400
+                },
+                {
+                    "price": 15100,
+                    "volume": 329100
+                },
+                {
+                    "price": 15200,
+                    "volume": 310600
+                },
+                {
+                    "price": 15300,
+                    "volume": 283100
+                },
+                {
+                    "price": 15400,
+                    "volume": 225600
+                },
+                {
+                    "price": 15500,
+                    "volume": 461300
+                },
+                {
+                    "price": 15600,
+                    "volume": 102900
+                }
+            ],
+            "code": "PVC",
+            "symbol": "PVC",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:04.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "PVC",
+            "symbol": "PVC",
+            "matchPrice": 14700,
+            "matchVol": 500,
+            "highest": 15000,
+            "lowest": 14600,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 14600,
+            "ceilingPrice": 16000,
+            "floorPrice": 13200,
+            "accumulatedVolume": 2542400,
+            "accumulatedValue": 37740.25,
+            "avgMatchPrice": 14844.339993706733,
+            "totalBuyOrders": 1788,
+            "totalSellOrders": 1788,
+            "currentRoom": 0,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "b",
+            "time": "2024-03-25T07:06:07.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "PVG",
+            "symbol": "PVG",
+            "ceiling": 9900,
+            "floor": 8100,
+            "refPrice": 9000,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "Petro Vietnam LPG Joint Stock Company",
+            "enOrganShortName": "Petro Vietnam LPG",
+            "organName": "Công ty Cổ phần Kinh doanh LPG Việt Nam",
+            "organShortName": "Kinh doanh LPG Việt Nam",
+            "ticker": "PVG"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 8900,
+                    "volume": 13300
+                },
+                {
+                    "price": 8800,
+                    "volume": 2200
+                },
+                {
+                    "price": 8700,
+                    "volume": 900
+                },
+                {
+                    "price": 8600,
+                    "volume": 25700
+                },
+                {
+                    "price": 8500,
+                    "volume": 2000
+                },
+                {
+                    "price": 8200,
+                    "volume": 400
+                },
+                {
+                    "price": 8100,
+                    "volume": 400
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 9000,
+                    "volume": 10900
+                },
+                {
+                    "price": 9100,
+                    "volume": 15400
+                },
+                {
+                    "price": 9200,
+                    "volume": 13000
+                },
+                {
+                    "price": 9300,
+                    "volume": 46300
+                },
+                {
+                    "price": 9400,
+                    "volume": 6200
+                },
+                {
+                    "price": 9500,
+                    "volume": 19100
+                },
+                {
+                    "price": 9700,
+                    "volume": 1500
+                },
+                {
+                    "price": 9900,
+                    "volume": 38700
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                }
+            ],
+            "code": "PVG",
+            "symbol": "PVG",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:05:41.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "PVG",
+            "symbol": "PVG",
+            "matchPrice": 9100,
+            "matchVol": 500,
+            "highest": 9100,
+            "lowest": 8900,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 9000,
+            "ceilingPrice": 9900,
+            "floorPrice": 8100,
+            "accumulatedVolume": 1800,
+            "accumulatedValue": 16.16,
+            "avgMatchPrice": 8977.777777777777,
+            "totalBuyOrders": 5,
+            "totalSellOrders": 5,
+            "currentRoom": 15580795,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "b",
+            "time": "2024-03-25T06:00:23.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "PVS",
+            "symbol": "PVS",
+            "ceiling": 42300,
+            "floor": 34700,
+            "refPrice": 38500,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "PetroVietnam Technical Services Corporation",
+            "enOrganShortName": "Petroleum Technical Services",
+            "organName": "Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam",
+            "organShortName": "DVKT Dầu khí PTSC",
+            "ticker": "PVS"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 38900,
+                    "volume": 12400
+                },
+                {
+                    "price": 38800,
+                    "volume": 124500
+                },
+                {
+                    "price": 38700,
+                    "volume": 67300
+                },
+                {
+                    "price": 38600,
+                    "volume": 251100
+                },
+                {
+                    "price": 38500,
+                    "volume": 308200
+                },
+                {
+                    "price": 38400,
+                    "volume": 30700
+                },
+                {
+                    "price": 38300,
+                    "volume": 48300
+                },
+                {
+                    "price": 38200,
+                    "volume": 52200
+                },
+                {
+                    "price": 38100,
+                    "volume": 9600
+                },
+                {
+                    "price": 38000,
+                    "volume": 75500
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 39000,
+                    "volume": 42300
+                },
+                {
+                    "price": 39100,
+                    "volume": 5600
+                },
+                {
+                    "price": 39200,
+                    "volume": 10700
+                },
+                {
+                    "price": 39300,
+                    "volume": 32800
+                },
+                {
+                    "price": 39400,
+                    "volume": 64800
+                },
+                {
+                    "price": 39500,
+                    "volume": 103500
+                },
+                {
+                    "price": 39600,
+                    "volume": 117800
+                },
+                {
+                    "price": 39700,
+                    "volume": 173000
+                },
+                {
+                    "price": 39800,
+                    "volume": 148800
+                },
+                {
+                    "price": 39900,
+                    "volume": 469800
+                }
+            ],
+            "code": "PVS",
+            "symbol": "PVS",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:19.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "PVS",
+            "symbol": "PVS",
+            "matchPrice": 39000,
+            "matchVol": 200,
+            "highest": 40300,
+            "lowest": 38400,
+            "foreignBuyVolume": 1803700,
+            "foreignSellVolume": 851300,
+            "foreignBuyValue": 71631340000,
+            "foreignSellValue": 33616470000,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 38500,
+            "ceilingPrice": 42300,
+            "floorPrice": 34700,
+            "accumulatedVolume": 12475500,
+            "accumulatedValue": 493447.45,
+            "avgMatchPrice": 39553.32050819606,
+            "totalBuyOrders": 7680,
+            "totalSellOrders": 7680,
+            "currentRoom": 149774474,
+            "ptAccumulatedVolume": 150000,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "b",
+            "time": "2024-03-25T07:07:12.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "SHS",
+            "symbol": "SHS",
+            "ceiling": 22000,
+            "floor": 18000,
+            "refPrice": 20000,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "Sai Gon - Ha Noi Securities Joint Stock Company",
+            "enOrganShortName": "Sai Gon - Ha Noi Securities",
+            "organName": "Công ty Cổ phần Chứng khoán Sài Gòn - Hà Nội",
+            "organShortName": "Chứng khoán SG - HN",
+            "ticker": "SHS"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 20000,
+                    "volume": 1628200
+                },
+                {
+                    "price": 19900,
+                    "volume": 1239000
+                },
+                {
+                    "price": 19800,
+                    "volume": 1506100
+                },
+                {
+                    "price": 19700,
+                    "volume": 864100
+                },
+                {
+                    "price": 19600,
+                    "volume": 904100
+                },
+                {
+                    "price": 19500,
+                    "volume": 1107500
+                },
+                {
+                    "price": 19400,
+                    "volume": 126600
+                },
+                {
+                    "price": 19300,
+                    "volume": 472600
+                },
+                {
+                    "price": 19200,
+                    "volume": 449800
+                },
+                {
+                    "price": 19100,
+                    "volume": 102000
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 20100,
+                    "volume": 101000
+                },
+                {
+                    "price": 20200,
+                    "volume": 264400
+                },
+                {
+                    "price": 20300,
+                    "volume": 528600
+                },
+                {
+                    "price": 20400,
+                    "volume": 747500
+                },
+                {
+                    "price": 20500,
+                    "volume": 905400
+                },
+                {
+                    "price": 20600,
+                    "volume": 1091700
+                },
+                {
+                    "price": 20700,
+                    "volume": 1644500
+                },
+                {
+                    "price": 20800,
+                    "volume": 1158300
+                },
+                {
+                    "price": 20900,
+                    "volume": 871700
+                },
+                {
+                    "price": 21000,
+                    "volume": 1841200
+                }
+            ],
+            "code": "SHS",
+            "symbol": "SHS",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:19.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "SHS",
+            "symbol": "SHS",
+            "matchPrice": 20100,
+            "matchVol": 1000,
+            "highest": 20700,
+            "lowest": 19900,
+            "foreignBuyVolume": 50700,
+            "foreignSellVolume": 282575,
+            "foreignBuyValue": 1019770000,
+            "foreignSellValue": 5780923100,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 20000,
+            "ceilingPrice": 22000,
+            "floorPrice": 18000,
+            "accumulatedVolume": 31657100,
+            "accumulatedValue": 644409.05,
+            "avgMatchPrice": 20355.909100959972,
+            "totalBuyOrders": 15679,
+            "totalSellOrders": 15679,
+            "currentRoom": 313456246,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "b",
+            "time": "2024-03-25T07:07:19.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "SLS",
+            "symbol": "SLS",
+            "ceiling": 171200,
+            "floor": 140200,
+            "refPrice": 155700,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:26.000Z",
+            "board": "HNX",
+            "enOrganName": "Son La Sugar Joint Stock Company",
+            "enOrganShortName": "Son La Sugar",
+            "organName": "Công ty Cổ phần Mía đường Sơn La",
+            "organShortName": "Mía đường Sơn La",
+            "ticker": "SLS"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 155000,
+                    "volume": 1000
+                },
+                {
+                    "price": 154500,
+                    "volume": 2100
+                },
+                {
+                    "price": 154200,
+                    "volume": 100
+                },
+                {
+                    "price": 154100,
+                    "volume": 100
+                },
+                {
+                    "price": 154000,
+                    "volume": 200
+                },
+                {
+                    "price": 153300,
+                    "volume": 100
+                },
+                {
+                    "price": 150500,
+                    "volume": 500
+                },
+                {
+                    "price": 150000,
+                    "volume": 100
+                },
+                {
+                    "price": 149000,
+                    "volume": 100
+                },
+                {
+                    "price": 144900,
+                    "volume": 100
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 156400,
+                    "volume": 100
+                },
+                {
+                    "price": 156500,
+                    "volume": 2700
+                },
+                {
+                    "price": 156600,
+                    "volume": 100
+                },
+                {
+                    "price": 156800,
+                    "volume": 100
+                },
+                {
+                    "price": 156900,
+                    "volume": 700
+                },
+                {
+                    "price": 157000,
+                    "volume": 500
+                },
+                {
+                    "price": 157200,
+                    "volume": 100
+                },
+                {
+                    "price": 157500,
+                    "volume": 200
+                },
+                {
+                    "price": 158400,
+                    "volume": 100
+                },
+                {
+                    "price": 158600,
+                    "volume": 100
+                }
+            ],
+            "code": "SLS",
+            "symbol": "SLS",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:06:37.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "SLS",
+            "symbol": "SLS",
+            "matchPrice": 155400,
+            "matchVol": 100,
+            "highest": 156600,
+            "lowest": 154000,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 155700,
+            "ceilingPrice": 171200,
+            "floorPrice": 140200,
+            "accumulatedVolume": 6100,
+            "accumulatedValue": 950.73,
+            "avgMatchPrice": 155857.37704918033,
+            "totalBuyOrders": 35,
+            "totalSellOrders": 35,
+            "currentRoom": 4711281,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:05:54.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "TDN",
+            "symbol": "TDN",
+            "ceiling": 13900,
+            "floor": 11500,
+            "refPrice": 12700,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:00:44.000Z",
+            "board": "HNX",
+            "enOrganName": "Vinacomin - Deo Nai Coal Joint Stock Company",
+            "enOrganShortName": "Vinacomin - Deo Nai coal",
+            "organName": "Công ty Cổ phần Than Đèo Nai - Vinacomin",
+            "organShortName": "Than Đèo Nai",
+            "ticker": "TDN"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 12600,
+                    "volume": 2200
+                },
+                {
+                    "price": 12500,
+                    "volume": 12200
+                },
+                {
+                    "price": 12400,
+                    "volume": 11100
+                },
+                {
+                    "price": 12300,
+                    "volume": 1100
+                },
+                {
+                    "price": 12000,
+                    "volume": 600
+                },
+                {
+                    "price": 11800,
+                    "volume": 4000
+                },
+                {
+                    "price": 11700,
+                    "volume": 2000
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 12700,
+                    "volume": 15500
+                },
+                {
+                    "price": 12800,
+                    "volume": 12700
+                },
+                {
+                    "price": 12900,
+                    "volume": 11800
+                },
+                {
+                    "price": 13000,
+                    "volume": 34800
+                },
+                {
+                    "price": 13100,
+                    "volume": 4600
+                },
+                {
+                    "price": 13200,
+                    "volume": 4200
+                },
+                {
+                    "price": 13300,
+                    "volume": 500
+                },
+                {
+                    "price": 13400,
+                    "volume": 400
+                },
+                {
+                    "price": 13500,
+                    "volume": 17400
+                },
+                {
+                    "price": 13600,
+                    "volume": 500
+                }
+            ],
+            "code": "TDN",
+            "symbol": "TDN",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:18.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "TDN",
+            "symbol": "TDN",
+            "matchPrice": 12600,
+            "matchVol": 700,
+            "highest": 12700,
+            "lowest": 12600,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 12700,
+            "ceilingPrice": 13900,
+            "floorPrice": 11500,
+            "accumulatedVolume": 71100,
+            "accumulatedValue": 900.54,
+            "avgMatchPrice": 12665.822784810127,
+            "totalBuyOrders": 63,
+            "totalSellOrders": 63,
+            "currentRoom": 0,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:12.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "TIG",
+            "symbol": "TIG",
+            "ceiling": 15000,
+            "floor": 12400,
+            "refPrice": 13700,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "ThangLong Investment Group Joint Stock Company",
+            "enOrganShortName": "ThangLong Investment Group",
+            "organName": "Công ty Cổ phần Tập đoàn Đầu tư Thăng Long",
+            "organShortName": "Tập đoàn Đầu tư Thăng Long",
+            "ticker": "TIG"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 13400,
+                    "volume": 108100
+                },
+                {
+                    "price": 13300,
+                    "volume": 196000
+                },
+                {
+                    "price": 13200,
+                    "volume": 267600
+                },
+                {
+                    "price": 13100,
+                    "volume": 187800
+                },
+                {
+                    "price": 13000,
+                    "volume": 329600
+                },
+                {
+                    "price": 12900,
+                    "volume": 10700
+                },
+                {
+                    "price": 12800,
+                    "volume": 6900
+                },
+                {
+                    "price": 12700,
+                    "volume": 10900
+                },
+                {
+                    "price": 12600,
+                    "volume": 7500
+                },
+                {
+                    "price": 12500,
+                    "volume": 4700
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 13500,
+                    "volume": 16300
+                },
+                {
+                    "price": 13600,
+                    "volume": 95200
+                },
+                {
+                    "price": 13700,
+                    "volume": 100400
+                },
+                {
+                    "price": 13800,
+                    "volume": 165700
+                },
+                {
+                    "price": 13900,
+                    "volume": 103100
+                },
+                {
+                    "price": 14000,
+                    "volume": 200900
+                },
+                {
+                    "price": 14100,
+                    "volume": 49700
+                },
+                {
+                    "price": 14200,
+                    "volume": 58700
+                },
+                {
+                    "price": 14300,
+                    "volume": 49000
+                },
+                {
+                    "price": 14400,
+                    "volume": 12200
+                }
+            ],
+            "code": "TIG",
+            "symbol": "TIG",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:18.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "TIG",
+            "symbol": "TIG",
+            "matchPrice": 13400,
+            "matchVol": 100,
+            "highest": 13900,
+            "lowest": 13400,
+            "foreignBuyVolume": 100,
+            "foreignSellVolume": 232200,
+            "foreignBuyValue": 1370000,
+            "foreignSellValue": 3166730000,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 13700,
+            "ceilingPrice": 15000,
+            "floorPrice": 12400,
+            "accumulatedVolume": 1626900,
+            "accumulatedValue": 22241.32,
+            "avgMatchPrice": 13670.981621488721,
+            "totalBuyOrders": 660,
+            "totalSellOrders": 660,
+            "currentRoom": 73850068,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:12.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "TNG",
+            "symbol": "TNG",
+            "ceiling": 24200,
+            "floor": 19800,
+            "refPrice": 22000,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:00:41.000Z",
+            "board": "HNX",
+            "enOrganName": "TNG Investment And Trading Joint Stock Company",
+            "enOrganShortName": "TNG Investment And Trading",
+            "organName": "Công ty Cổ phần Đầu tư và Thương mại TNG",
+            "organShortName": "Đầu tư và Thương mại TNG",
+            "ticker": "TNG"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 21700,
+                    "volume": 151900
+                },
+                {
+                    "price": 21600,
+                    "volume": 154700
+                },
+                {
+                    "price": 21500,
+                    "volume": 131300
+                },
+                {
+                    "price": 21400,
+                    "volume": 14700
+                },
+                {
+                    "price": 21300,
+                    "volume": 12900
+                },
+                {
+                    "price": 21200,
+                    "volume": 52700
+                },
+                {
+                    "price": 21100,
+                    "volume": 24300
+                },
+                {
+                    "price": 21000,
+                    "volume": 118900
+                },
+                {
+                    "price": 20900,
+                    "volume": 4000
+                },
+                {
+                    "price": 20800,
+                    "volume": 4400
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 21800,
+                    "volume": 54600
+                },
+                {
+                    "price": 21900,
+                    "volume": 82800
+                },
+                {
+                    "price": 22000,
+                    "volume": 88900
+                },
+                {
+                    "price": 22100,
+                    "volume": 133900
+                },
+                {
+                    "price": 22200,
+                    "volume": 133500
+                },
+                {
+                    "price": 22300,
+                    "volume": 119400
+                },
+                {
+                    "price": 22400,
+                    "volume": 68600
+                },
+                {
+                    "price": 22500,
+                    "volume": 99100
+                },
+                {
+                    "price": 22600,
+                    "volume": 57600
+                },
+                {
+                    "price": 22700,
+                    "volume": 13100
+                }
+            ],
+            "code": "TNG",
+            "symbol": "TNG",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:19.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "TNG",
+            "symbol": "TNG",
+            "matchPrice": 21700,
+            "matchVol": 500,
+            "highest": 22100,
+            "lowest": 21700,
+            "foreignBuyVolume": 31900,
+            "foreignSellVolume": 10200,
+            "foreignBuyValue": 700370000,
+            "foreignSellValue": 224400000,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 22000,
+            "ceilingPrice": 24200,
+            "floorPrice": 19800,
+            "accumulatedVolume": 1205500,
+            "accumulatedValue": 26423.19,
+            "avgMatchPrice": 21918.863542098716,
+            "totalBuyOrders": 838,
+            "totalSellOrders": 838,
+            "currentRoom": 32596603,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:19.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "TVD",
+            "symbol": "TVD",
+            "ceiling": 15500,
+            "floor": 12700,
+            "refPrice": 14100,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "Vang Danh Coal Joint Stock Company",
+            "enOrganShortName": "Vang Danh Coal",
+            "organName": "Công ty Cổ phần Than Vàng Danh - Vinacomin",
+            "organShortName": "Than Vàng Danh",
+            "ticker": "TVD"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 14000,
+                    "volume": 10900
+                },
+                {
+                    "price": 13900,
+                    "volume": 6300
+                },
+                {
+                    "price": 13800,
+                    "volume": 8400
+                },
+                {
+                    "price": 13700,
+                    "volume": 3200
+                },
+                {
+                    "price": 13600,
+                    "volume": 2100
+                },
+                {
+                    "price": 13500,
+                    "volume": 4300
+                },
+                {
+                    "price": 13400,
+                    "volume": 100
+                },
+                {
+                    "price": 13100,
+                    "volume": 100
+                },
+                {
+                    "price": 13000,
+                    "volume": 100
+                },
+                {
+                    "price": 12800,
+                    "volume": 2000
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 14100,
+                    "volume": 18400
+                },
+                {
+                    "price": 14200,
+                    "volume": 27800
+                },
+                {
+                    "price": 14300,
+                    "volume": 98700
+                },
+                {
+                    "price": 14400,
+                    "volume": 13000
+                },
+                {
+                    "price": 14500,
+                    "volume": 6400
+                },
+                {
+                    "price": 14600,
+                    "volume": 1600
+                },
+                {
+                    "price": 14800,
+                    "volume": 1400
+                },
+                {
+                    "price": 14900,
+                    "volume": 200
+                },
+                {
+                    "price": 15000,
+                    "volume": 60200
+                },
+                {
+                    "price": 15200,
+                    "volume": 500
+                }
+            ],
+            "code": "TVD",
+            "symbol": "TVD",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:02:38.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "TVD",
+            "symbol": "TVD",
+            "matchPrice": 14000,
+            "matchVol": 2100,
+            "highest": 14100,
+            "lowest": 14000,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 14100,
+            "ceilingPrice": 15500,
+            "floorPrice": 12700,
+            "accumulatedVolume": 35200,
+            "accumulatedValue": 492.91,
+            "avgMatchPrice": 14003.125,
+            "totalBuyOrders": 32,
+            "totalSellOrders": 32,
+            "currentRoom": 20129266,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T06:46:54.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "VC3",
+            "symbol": "VC3",
+            "ceiling": 32600,
+            "floor": 26800,
+            "refPrice": 29700,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:27.000Z",
+            "board": "HNX",
+            "enOrganName": "Nam MeKong Group Joint Stock Company",
+            "enOrganShortName": "Nam MeKong Group",
+            "organName": "Công ty Cổ phần Tập đoàn Nam Mê Kông",
+            "organShortName": "Tập đoàn Nam Mê Kông",
+            "ticker": "VC3"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 29400,
+                    "volume": 17400
+                },
+                {
+                    "price": 29300,
+                    "volume": 3300
+                },
+                {
+                    "price": 29200,
+                    "volume": 6200
+                },
+                {
+                    "price": 29100,
+                    "volume": 5600
+                },
+                {
+                    "price": 29000,
+                    "volume": 15200
+                },
+                {
+                    "price": 28900,
+                    "volume": 5900
+                },
+                {
+                    "price": 28800,
+                    "volume": 7000
+                },
+                {
+                    "price": 28700,
+                    "volume": 3100
+                },
+                {
+                    "price": 28600,
+                    "volume": 3200
+                },
+                {
+                    "price": 28500,
+                    "volume": 4800
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 29500,
+                    "volume": 1900
+                },
+                {
+                    "price": 29600,
+                    "volume": 13100
+                },
+                {
+                    "price": 29700,
+                    "volume": 11300
+                },
+                {
+                    "price": 29800,
+                    "volume": 12200
+                },
+                {
+                    "price": 29900,
+                    "volume": 10800
+                },
+                {
+                    "price": 30000,
+                    "volume": 17700
+                },
+                {
+                    "price": 30100,
+                    "volume": 1800
+                },
+                {
+                    "price": 30200,
+                    "volume": 1700
+                },
+                {
+                    "price": 30300,
+                    "volume": 500
+                },
+                {
+                    "price": 30400,
+                    "volume": 1400
+                }
+            ],
+            "code": "VC3",
+            "symbol": "VC3",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:09.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "VC3",
+            "symbol": "VC3",
+            "matchPrice": 29500,
+            "matchVol": 200,
+            "highest": 30000,
+            "lowest": 29200,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 29700,
+            "ceilingPrice": 32600,
+            "floorPrice": 26800,
+            "accumulatedVolume": 571900,
+            "accumulatedValue": 16923.78,
+            "avgMatchPrice": 29592.2014338171,
+            "totalBuyOrders": 1064,
+            "totalSellOrders": 1064,
+            "currentRoom": 0,
+            "ptAccumulatedVolume": 344000,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "b",
+            "time": "2024-03-25T07:07:02.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "VCS",
+            "symbol": "VCS",
+            "ceiling": 76200,
+            "floor": 62400,
+            "refPrice": 69300,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:00:42.000Z",
+            "board": "HNX",
+            "enOrganName": "VICOSTONE Joint Stock Company",
+            "enOrganShortName": "VICOSTONE",
+            "organName": "Công ty Cổ phần VICOSTONE",
+            "organShortName": "VICOSTONE",
+            "ticker": "VCS"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 68300,
+                    "volume": 1500
+                },
+                {
+                    "price": 68200,
+                    "volume": 1100
+                },
+                {
+                    "price": 68100,
+                    "volume": 1000
+                },
+                {
+                    "price": 68000,
+                    "volume": 10800
+                },
+                {
+                    "price": 67900,
+                    "volume": 200
+                },
+                {
+                    "price": 67800,
+                    "volume": 500
+                },
+                {
+                    "price": 67700,
+                    "volume": 500
+                },
+                {
+                    "price": 67600,
+                    "volume": 6100
+                },
+                {
+                    "price": 67500,
+                    "volume": 11600
+                },
+                {
+                    "price": 67200,
+                    "volume": 500
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 68400,
+                    "volume": 3200
+                },
+                {
+                    "price": 68700,
+                    "volume": 400
+                },
+                {
+                    "price": 68800,
+                    "volume": 200
+                },
+                {
+                    "price": 69000,
+                    "volume": 1400
+                },
+                {
+                    "price": 69100,
+                    "volume": 2000
+                },
+                {
+                    "price": 69500,
+                    "volume": 10500
+                },
+                {
+                    "price": 69800,
+                    "volume": 2500
+                },
+                {
+                    "price": 69900,
+                    "volume": 3200
+                },
+                {
+                    "price": 70000,
+                    "volume": 12500
+                },
+                {
+                    "price": 70100,
+                    "volume": 100
+                }
+            ],
+            "code": "VCS",
+            "symbol": "VCS",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:17.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "VCS",
+            "symbol": "VCS",
+            "matchPrice": 68400,
+            "matchVol": 300,
+            "highest": 70500,
+            "lowest": 68300,
+            "foreignBuyVolume": 1000,
+            "foreignSellVolume": 3300,
+            "foreignBuyValue": 69400000,
+            "foreignSellValue": 227350000,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 69300,
+            "ceilingPrice": 76200,
+            "floorPrice": 62400,
+            "accumulatedVolume": 136900,
+            "accumulatedValue": 9406.35,
+            "avgMatchPrice": 68709.64207450693,
+            "totalBuyOrders": 232,
+            "totalSellOrders": 232,
+            "currentRoom": 74626026,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "b",
+            "time": "2024-03-25T07:07:16.000Z"
+        }
+    },
+    {
+        "listingInfo": {
+            "code": "VIG",
+            "symbol": "VIG",
+            "ceiling": 9600,
+            "floor": 8000,
+            "refPrice": 8800,
+            "stockType": "STOCK",
+            "type": "STOCK",
+            "receivedTime": "2024-03-25T01:21:26.000Z",
+            "board": "HNX",
+            "enOrganName": "Viet Nam Financial Investment Securities Corporation",
+            "enOrganShortName": "Viet Nam Financial Investment Securities",
+            "organName": "Công ty Cổ phần Chứng khoán Đầu tư Tài chính Việt Nam",
+            "organShortName": "Chứng khoán Đầu tư Tài chính Việt Nam",
+            "ticker": "VIG"
+        },
+        "bidAsk": {
+            "bidPrices": [
+                {
+                    "price": 8600,
+                    "volume": 66200
+                },
+                {
+                    "price": 8500,
+                    "volume": 63600
+                },
+                {
+                    "price": 8400,
+                    "volume": 22500
+                },
+                {
+                    "price": 8300,
+                    "volume": 16100
+                },
+                {
+                    "price": 8200,
+                    "volume": 9000
+                },
+                {
+                    "price": 8100,
+                    "volume": 13500
+                },
+                {
+                    "price": 8000,
+                    "volume": 9500
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                },
+                {
+                    "price": 0,
+                    "volume": 0
+                }
+            ],
+            "askPrices": [
+                {
+                    "price": 8700,
+                    "volume": 11000
+                },
+                {
+                    "price": 8800,
+                    "volume": 24700
+                },
+                {
+                    "price": 8900,
+                    "volume": 90000
+                },
+                {
+                    "price": 9000,
+                    "volume": 154300
+                },
+                {
+                    "price": 9100,
+                    "volume": 142600
+                },
+                {
+                    "price": 9200,
+                    "volume": 139300
+                },
+                {
+                    "price": 9300,
+                    "volume": 93800
+                },
+                {
+                    "price": 9400,
+                    "volume": 75000
+                },
+                {
+                    "price": 9500,
+                    "volume": 51800
+                },
+                {
+                    "price": 9600,
+                    "volume": 149600
+                }
+            ],
+            "code": "VIG",
+            "symbol": "VIG",
+            "session": "LO_AFTERNOON",
+            "time": "2024-03-25T07:07:14.000Z",
+            "messageType": "TP"
+        },
+        "matchPrice": {
+            "marketCode": "HNX",
+            "code": "VIG",
+            "symbol": "VIG",
+            "matchPrice": 8600,
+            "matchVol": 100,
+            "highest": 9000,
+            "lowest": 8600,
+            "foreignBuyVolume": 0,
+            "foreignSellVolume": 0,
+            "foreignBuyValue": 0,
+            "foreignSellValue": 0,
+            "session": "LO_AFTERNOON",
+            "referencePrice": 8800,
+            "ceilingPrice": 9600,
+            "floorPrice": 8000,
+            "accumulatedVolume": 648700,
+            "accumulatedValue": 5729.7,
+            "avgMatchPrice": 8832.588253429936,
+            "totalBuyOrders": 372,
+            "totalSellOrders": 372,
+            "currentRoom": 44342777,
+            "stockType": "STOCK",
+            "board": "HNX",
+            "matchType": "s",
+            "time": "2024-03-25T07:07:13.000Z"
+        }
+    }
+]

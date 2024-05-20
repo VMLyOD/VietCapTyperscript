@@ -1,0 +1,15 @@
+.tab {
+  position: relative;
+  color: var(--mantine-color-gray_60-filled);
+
+  @mixin hover {
+    background: none;
+  }
+
+  &[data-active] {
+    z-index: 1;
+    background-color: none;
+    border-color: var(--mantine-color-primary-filled);
+    color: var(--mantine-color-gray_100-filled);
+  }
+}

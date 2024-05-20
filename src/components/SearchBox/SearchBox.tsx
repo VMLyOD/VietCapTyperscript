@@ -1,11 +1,17 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Combobox, InputBase, useCombobox } from "@mantine/core";
 import SearchImg from "./SearchImg";
 import "./Style.css";
-
-const groceries = ["A32 - UPCOM"];
+import data from "~/AllAPI.json";
+import { spawn } from "child_process";
 
 const SearchBox: React.FC = () => {
+  const [symbols, setSymbols] = useState<string[]>([]);
+
+  useEffect(() => {
+    setSymbols(data.map((item) => item.symbol).slice(0, 5000));
+  }, []);
+
   const combobox = useCombobox({
     onDropdownClose: () => combobox.resetSelectedOption(),
   });
@@ -13,15 +19,15 @@ const SearchBox: React.FC = () => {
   const [value, setValue] = useState<string | null>(null);
   const [search, setSearch] = useState("");
 
-  const shouldFilterOptions = groceries.every((item) => item !== search);
+  const shouldFilterOptions = symbols.every((item) => item !== search);
   const filteredOptions = shouldFilterOptions
-    ? groceries.filter((item) =>
+    ? symbols.filter((item) =>
         item.toLowerCase().includes(search.toLowerCase().trim())
       )
-    : groceries;
+    : symbols;
 
   const options = filteredOptions.map((item) => (
-    <Combobox.Option value={item} key={item}>
+    <Combobox.Option value={item} key={item} className="custom-option">
       {item}
     </Combobox.Option>
   ));
@@ -38,9 +44,9 @@ const SearchBox: React.FC = () => {
     >
       <Combobox.Target>
         <InputBase
-          className="input-base"
+          className="input-base text-white"
+          c="blue"
           variant="outline"
-          color="blue"
           rightSection={<SearchImg />}
           value={search}
           onChange={(event) => {
@@ -59,14 +65,18 @@ const SearchBox: React.FC = () => {
         />
       </Combobox.Target>
 
-      <Combobox.Dropdown>
-        <Combobox.Options>
-          {options.length > 0 ? (
-            options
-          ) : (
-            <Combobox.Empty>Nothing found</Combobox.Empty>
-          )}
-        </Combobox.Options>
+      <Combobox.Dropdown className="combox-drop">
+        <div
+          style={{ maxHeight: "150px", overflow: "auto", background: "none" }}
+        >
+          <Combobox.Options className="combox-opt">
+            {options.length > 0 ? (
+              options
+            ) : (
+              <Combobox.Empty>Nothing found</Combobox.Empty>
+            )}
+          </Combobox.Options>
+        </div>
       </Combobox.Dropdown>
     </Combobox>
   );

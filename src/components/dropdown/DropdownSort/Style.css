@@ -1,0 +1,99 @@
+.dropbtn {
+  background: none;
+  color: white;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  column-gap: 6px;
+}
+
+/* .is-Horvers {
+    background-color: green;
+  } */
+
+.dropdown2 {
+  background: var(--mantine-color-transparent_20-filled);
+  border-radius: 4px 4px 0 0px;
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content4 {
+  display: none;
+  position: absolute;
+
+  border-radius: 4px;
+
+  /* background-color: #f9f9f9; */
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+a {
+  border-radius: 2px;
+}
+
+.dropdown-content4 li:hover a:hover {
+  background: red;
+}
+
+.is-uppercase {
+  text-transform: uppercase;
+}
+
+.dropdown-content4 button {
+  background: var(--mantine-color-gray_2-filled);
+  color: var(--mantine-color-gray_100-filled);
+  padding: 6px 8px;
+  text-decoration: none;
+  /* display: block; */
+}
+
+.dropdown-content4 li {
+  color: white;
+  background: var(--mantine-color-gray_2-filled);
+}
+
+.dropdown-content4 a:hover {
+  color: var(--mantine-color-primary-filled);
+}
+
+.dropdown2:hover .dropdown-content4 {
+  display: block;
+}
+
+.dropdown2:hover .dropbtn {
+  /* color: green; */
+}
+
+.Login-btn {
+  color: var(--mantine-color-gray_100-filled);
+}
+
+.tab-buttons button {
+  background-color: var(--mantine-color-transparent_10-filled);
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.tab-buttons button.active {
+  background-color: #00b71f;
+}
+
+.indicator {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  background-color: #00b71f;
+  transition: transform 0.3s ease;
+}
+
+.icon-down-drop {
+  color: var(--mantine-color-gray_60-filled);
+  display: flex;
+}

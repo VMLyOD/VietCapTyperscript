@@ -1,0 +1,11 @@
+.input {
+  background-color: red;
+  color: red;
+  height: 28px;
+  display: flex;
+  item-align: center;
+  justify-content: center;
+}
+.section {
+  height: 20px;
+}

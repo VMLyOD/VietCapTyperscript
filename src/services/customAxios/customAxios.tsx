@@ -1,4 +1,6 @@
 import axios from "axios";
+export const TIMEOUT_API = 30000;
+export const TIMEOUT_ERROR_API = "timeout-error-api";
 
 const InstanceAxios = axios.create({
   baseURL: "https://mt-qc.vietcap.int/",

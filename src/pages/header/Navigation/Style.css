@@ -1,0 +1,84 @@
+.navi-container {
+}
+
+.btn-navi {
+  display: flex;
+  column-gap: 4px;
+}
+
+.btn {
+  background: var(--mantine-color-primary-filled);
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: 500;
+  grid-area: auto;
+  line-height: 18px;
+  padding: 5px 16px;
+  /* text-align: center; */
+  text-transform: uppercase;
+}
+
+.btn-1 {
+  color: var(--mantine-color-gray_60-filled);
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: 500;
+  grid-area: auto;
+  line-height: 18px;
+  padding: 5px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* text-align: center; */
+  text-transform: uppercase;
+}
+
+.btn-1:hover {
+  background: var(--mantine-color-primary-filled);
+}
+
+.btn-2 {
+  color: var(--mantine-color-gray_60-filled);
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: 500;
+  grid-area: auto;
+  line-height: 18px;
+  padding: 5px 16px;
+  /* text-align: center; */
+  text-transform: uppercase;
+}
+
+.btn-2:hover {
+  background: var(--mantine-color-primary-filled);
+}
+
+.btn:hover {
+  background: var(--mantine-color-primary-filled);
+}
+
+.btn-navi li {
+  list-style-type: none;
+  position: relative;
+  /* left: -16px; */
+  /* top: 12px; */
+  transition: all 0.2s linear;
+  cursor: move;
+}
+
+.btn-navi .btn-1 a {
+  text-transform: capitalize;
+  background: var(--mantine-color-gray_2-filled);
+}
+
+.btn-2 {
+  color: var(--mantine-color-gray_60-filled);
+  font-family: Manrope;
+  font-size: 12px;
+  font-weight: 500;
+  grid-area: auto;
+  line-height: 18px;
+  padding: 5px 16px;
+  /* text-align: center; */
+  text-transform: uppercase;
+}

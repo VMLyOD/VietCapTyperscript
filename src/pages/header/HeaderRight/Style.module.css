@@ -1,0 +1,31 @@
+.myheader-right {
+  display: flex;
+  align-items: center;
+}
+.button-theme button {
+  background: none;
+  height: 20px;
+  width: 20px;
+}
+
+.DarkMode .icon-theme {
+  background: none;
+  height: 20px;
+  width: 20px;
+}
+.icon-theme {
+  height: 20px;
+  width: 20px;
+}
+
+.icon {
+  width: 22px;
+  height: 22px;
+}
+
+.LightBG {
+  background: red;
+}
+.DarkBG {
+  background: red;
+}

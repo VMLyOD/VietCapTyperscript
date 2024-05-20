@@ -2,3 +2,59 @@
   display: flex;
   /* max-width: none; */
 }
+
+.icon-bruh:hover {
+  background: var(--mantine-color-primary-filled);
+  color: white;
+}
+
+.active-icon-bruh:active {
+  background: var(--mantine-color-primary-filled);
+}
+
+.icon-bruh {
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.custom-img {
+  background: none;
+}
+
+.custom-img {
+  position: relative;
+  display: inline-block;
+  /* border-bottom: 1px dotted black; */
+}
+
+.custom-img .tooltiptext {
+  visibility: hidden;
+  min-width: 100px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 0px 20;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  bottom: 30px;
+  left: 20px;
+  margin-left: -60px;
+}
+
+.custom-img:hover .tooltiptext {
+  visibility: visible;
+  background: var(--mantine-color-gray_4-filled);
+}
+
+.icon-container {
+  background: var(--mantine-color-transparent_20-filled);
+}

@@ -1,14 +1,26 @@
 import React from "react";
-import SlideList from "~/pages/components/slideList/SlideListTrade";
-import Navsort from "./components/NavSort/Navsort";
+import SocketSlide from "~/socket/SlideBot";
+import "./style.css";
+import { CheckboxProvider } from "~/context/CheckboxSetting";
+import GridComponent from "./TableChart/Index";
 
 const Home: React.FC = () => {
   return (
-    <div>
-      <SlideList />
-      <Navsort />
-      <div className="bg-green-500 h-[2px]"></div>
-    </div>
+    <CheckboxProvider>
+      <div
+        className="div-container"
+        style={{
+          height: "calc(-87px + 100vh)",
+          display: "flex",
+          flexDirection: "column",
+        }}
+      >
+        <SocketSlide />
+        {/* <SocketSlide /> */}
+        {/* <SlideList /> */}
+        <GridComponent />
+      </div>
+    </CheckboxProvider>
   );
 };
 

@@ -1,0 +1,56 @@
+.yellow-color {
+  color: var(--mantine-color-yellow-filled);
+}
+
+.red-color {
+  color: var(--mantine-color-red-filled);
+}
+
+.green-color {
+  color: var(--mantine-color-primary-filled);
+}
+
+.green-BG {
+  background-color: var(--mantine-color-green_BG-filled);
+}
+
+.red-BG {
+  background-color: var(--mantine-color-red_BG-filled);
+}
+
+.yellow-BG {
+  background-color: var(--mantine-color-yellow_BG-filled);
+}
+
+.symbol-title {
+  font-weight: bold;
+}
+
+.item-title-slide {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.slide-bottom-2 {
+  border-color: var(--mantine-color-gray_10-filled);
+  border-style: solid;
+  border-width: 1px;
+  color: var(--mantine-color-gray_60-filled);
+  display: flex;
+  font-size: 10px;
+  font-weight: 500;
+  grid-area: auto;
+  line-height: 11.5px;
+  margin: 4px 4px;
+}
+s .box-header {
+  /* background: var(--mantine-color-gray_20-filled); */
+}
+
+.ReactCollapse--collapse {
+  transition: height 1000ms;
+}
+
+.slide-listtrade {
+  background: var(--mantine-color-background-filled);
+}

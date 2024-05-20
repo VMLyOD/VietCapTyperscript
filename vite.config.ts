@@ -14,6 +14,7 @@ export default defineConfig({
   },
   resolve: {
     alias: {
+      buffer: 'buffer/',
       '~': path.resolve(__dirname, './src')
     }
   }

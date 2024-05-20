@@ -1,10 +1,55 @@
 .input-base {
   width: 120px;
   height: 28px;
-  /* background-color: gray; */
-  color: #27272a;
+  background-color: var(--mantine-color-gray_0-filled);
+  color: var(--mantine-color-gray_60-filled);
   border-radius: 4px;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.search-suggestion {
+  background-color: red;
+  color: var(--mantine-color-gray_60-filled);
+}
+
+.combox-drop {
+  color: var(--mantine-color-gray_60-filled);
+  background-color: var(--mantine-color-gray_4-filled);
+}
+
+.combox-opt {
+  background-color: var(--mantine-color-gray_0-filled);
+  border: none;
+}
+
+.combox-opt .custom-option:hover {
+  background-color: var(--mantine-color-primary-filled);
+  border: none;
+}
+.mantine-InputBase-wrapper {
+  color: var(--mantine-color-gray_60-filled);
+}
+.mantine-InputBase-input {
+  color: var(--mantine-color-gray_60-filled);
+}
+
+.bruh-lmao {
+  background-color: none;
+}
+
+.m-38a85659
+  .mantine-Popover-dropdown
+  .m-88b62a41
+  .mantine-Combobox-dropdown
+  .combox-drop {
+  background-color: red;
+}
+
+.m-8fb7ebe7 input {
+  color: var(--mantine-color-gray_60-filled);
+}
+#mantine-un1orhjdg {
+  color: var(--mantine-color-gray_60-filled);
 }

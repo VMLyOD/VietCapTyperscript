@@ -1,0 +1,37 @@
+[
+    {
+        "id": "^DJI",
+        "exchange": "DJI",
+        "price": 39512.13,
+        "change": 401.36999999999534,
+        "changePercent": 1.0262393264666687
+    },
+    {
+        "id": "^GSPC",
+        "exchange": "SNP",
+        "price": 5224.62,
+        "change": 46.10999999999967,
+        "changePercent": 0.8904105621114891
+    },
+    {
+        "id": "^IXIC",
+        "exchange": "NIM",
+        "price": 16369.407,
+        "change": 202.61599999999999,
+        "changePercent": 1.2532852066931528
+    },
+    {
+        "id": "^RUT",
+        "exchange": "WCB",
+        "price": 2074.8801,
+        "change": 39.17359999999985,
+        "changePercent": 1.9243245526798607
+    },
+    {
+        "id": "^GDOW",
+        "exchange": "DJI",
+        "price": 4621.76,
+        "change": 22.659999999999854,
+        "changePercent": 0.49270509447500277
+    }
+]

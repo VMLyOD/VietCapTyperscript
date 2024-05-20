@@ -1,0 +1,9 @@
+console.log(dataAPI);
+
+  const symbolToFilter = data.map((dataItem: any) => dataItem.symbol);
+  console.log(symbolToFilter);
+  const filteredData = dataAPI.filter(
+    (item: any, index: number) => item.symbol === symbolToFilter[index]
+  );
+
+  console.log(filteredData);

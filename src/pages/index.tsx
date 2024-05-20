@@ -1,19 +1,28 @@
 import React from "react";
-import { HeaderMegaMenu } from "./components/header/header";
-import SlideList from "./components/slideList/SlideList";
-import Navsort from "./components/NavSort/Navsort";
-import DropDown from "~/components/dropdown/dropdown";
-import Footer from "./components/footers/Index";
+import HeaderMegaMenu from "./header/Header";
+import Footer from "./footers/Index";
 import { Outlet } from "react-router-dom";
-import DataTime from "~/components/dataTime/dataTimeReal";
+import { useTheme } from "~/context/ThemeContext";
+import { Theme } from "~/context/ThemeContext/themes";
 
 const Home: React.FC = () => {
+  const { theme } = useTheme();
+
+  const handleScrollTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  };
+
   return (
-    <div className="box-index bg-black text-white">
+    // <div className={theme === Theme.Light ? "LightMode" : "DarkMode"}>
+    <>
       <HeaderMegaMenu />
       <Outlet />
       <Footer />
-    </div>
+    </>
+    // </div>
   );
 };
 

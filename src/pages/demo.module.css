@@ -1,0 +1,51 @@
+.root {
+  position: relative;
+  background: var(--mantine-color-transparent_20-filled);
+  /* width: fit-content; */
+  height: 24px;
+  width: 156px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px 25px 25px 25px;
+}
+
+.control {
+  height: 24px;
+  display: flex;
+  width: 50%;
+  border-radius: 6px 6px 6px 6px;
+  align-items: center;
+  justify-content: center;
+  /* border-radius: 4px; */
+  font-size: var(--mantine-font-size-sm);
+  transition: 1000ms 10000 milliseconds;
+  font-weight: 500;
+
+  @mixin hover {
+  }
+
+  &[data-active] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--mantine-color-primary-filled);
+    color: var(--mantine-color-white);
+    height: 24px;
+    width: 50%;
+    border-radius: 12px 12px 12px 12px;
+  }
+}
+
+.controlLabel {
+  position: relative;
+  z-index: 1;
+}
+
+.indicator {
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--mantine-radius-md);
+}

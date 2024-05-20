@@ -1,0 +1,43 @@
+.background-primary {
+  background: var(--mantine-color-primary-filled);
+  color: var(--mantine-color-gray_60-filled);
+}
+
+.background-gray {
+  background: var(--mantine-color-gray_20-filled);
+  color: var(--mantine-color-gray_60-filled);
+}
+
+/* Ẩn checkbox mặc định */
+.round-checkbox {
+  display: none;
+}
+
+/* Tùy chỉnh giao diện của label */
+.round-checkbox + label {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #000;
+  cursor: pointer;
+}
+
+.round-checkbox:checked + label {
+  background-color: #000;
+}
+
+/* Tùy chỉnh hiệu ứng khi cuộn tràn */
+.cot-hien-thi::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 50%; /* Độ rộng thanh cuộn */
+}
+
+.cot-hien-thi::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.5); /* Màu nền của nút cuộn */
+  border-radius: 5px; /* Độ cong của nút cuộn */
+}
+
+.cot-hien-thi::-webkit-scrollbar-track {
+  background-color: rgba(0, 0, 0, 0.1); /* Màu nền của thanh cuộn */
+}

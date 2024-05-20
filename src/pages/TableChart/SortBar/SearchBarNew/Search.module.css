@@ -1,0 +1,115 @@
+.root {
+  background: none !important;
+  /* color: white !important; */
+}
+
+.section {
+  /* background: green; */
+  color: var(--mantine-color-gray_60-filled);
+}
+
+.wrapper {
+  border-radius: 4px !important;
+  background: none !important;
+  height: 29px;
+  color: white !important;
+}
+
+.input {
+  background-color: var(--mantine-color-transparent_20-filled) !important;
+  color: var(--mantine-color-gray_100-filled) !important;
+  border-radius: 4px !important;
+  height: 29px !important;
+}
+
+.header {
+  /* background: red !important; */
+}
+
+.option {
+  /* background-color: var(--mantine-color-primary-filled); */
+  @mixin hover !important {
+    background-color: var(--mantine-color-primary-filled) !important;
+    color: var(--mantine-color-white-filled) !important;
+  }
+}
+
+.text-input {
+  background: red !important;
+}
+
+.dropdown-option:hover {
+  cursor: pointer;
+}
+
+.input {
+  color: var(--mantine-color-gray_100-filled);
+  background: var(--mantine-color-gray-filled);
+  display: flex;
+  justify-content: space-between;
+  border-radius: 4px;
+}
+
+:global(.option:hover) {
+  /* background-color: red; */
+  color: black;
+}
+
+.m_6c018570 {
+  /* background: red !important; */
+}
+
+.dropdown {
+  /* background: var(--mantine-color--filled); */
+  max-height: 300px;
+  max-width: 300px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  &[data-variant="underline"] {
+    /* background: red; */
+  }
+}
+
+/* Tùy chỉnh hiệu ứng khi cuộn tràn */
+.dropdown::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 50%; /* Độ rộng thanh cuộn */
+}
+
+.dropdown::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.5); /* Màu nền của nút cuộn */
+  border-radius: 5px; /* Độ cong của nút cuộn */
+}
+
+.dropdown::-webkit-scrollbar-track {
+  background-color: rgba(0, 0, 0, 0.1); /* Màu nền của thanh cuộn */
+}
+
+.options {
+  height: 20px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+
+  /* @mixin hover {
+    background: var(--mantine-color-primary-filled);
+  } */
+}
+
+@keyframes option-animation {
+  from {
+    opacity: 0;
+    transform: translateX(rem(-20px));
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animateOption {
+  opacity: 0;
+  animation: option-animation 500ms ease;
+  animation-fill-mode: forwards;
+}

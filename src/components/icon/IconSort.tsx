@@ -1,43 +1,25 @@
-import { ActionIcon, Group, Tabs, rem } from "@mantine/core";
-import classes from "./Demo.module.css";
-import {
-  IconAdjustments,
-  IconMessageCircle,
-  IconPhoto,
-  IconSettings,
-} from "@tabler/icons-react";
+import "./IconStyle.css";
+
 import React from "react";
+import { useTranslation } from "react-i18next";
+import { Link } from "react-router-dom";
+import { Tooltip } from "@mui/material";
+import IconsPublic from "./IconPublic";
 
 const IconSort: React.FC = () => {
+  const { t } = useTranslation();
+
   return (
-    <Tabs
-      className="icon-button"
-      color="green"
-      variant="pills"
-      defaultValue="settings"
-    >
-      <Tabs.List>
-        <Tabs.Tab
-          style={{ width: "24px", height: "24px" }}
-          value="settings"
-          leftSection={
-            <IconAdjustments style={{ width: "20px", height: "20px" }} />
-          }
-        ></Tabs.Tab>
-        <Tabs.Tab
-          style={{ width: "24px", height: "24px" }}
-          value="messages"
-          leftSection={
-            <IconMessageCircle style={{ width: "20px", height: "20px" }} />
-          }
-        ></Tabs.Tab>
-        <Tabs.Tab
-          style={{ width: "24px", height: "24px" }}
-          value="gallery"
-          leftSection={<IconPhoto style={{ width: "20px", height: "20px" }} />}
-        ></Tabs.Tab>
-      </Tabs.List>
-    </Tabs>
+    <>
+      <div className="icon-container h-7 w-20 rounded-[4px] flex items-center justify-center">
+        <IconsPublic toolTip="Ôi bạn ơi" imageUrl="/assets/sort-1.svg" />
+        <IconsPublic
+          toolTip="Chưa chơi đồ đấy bạn ạ"
+          imageUrl="/assets/sort-2.svg"
+        />
+        <IconsPublic toolTip="Ảo thật đấy" imageUrl="/assets/sort-3.svg" />
+      </div>
+    </>
   );
 };
 

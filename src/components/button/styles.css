@@ -1,22 +1,69 @@
-.red {
-  background: #e14136;
+.btncpn-red {
+  background: var(--mantine-color-red-filled);
 }
 
-.green {
-  background: green;
+.btncpn-green {
+  background: var(--mantine-color-primary-filled);
 }
 
-.none {
+.btncpn-none {
   background: none;
 }
 
-.medium {
+.btncpn-gray {
+  background: var(--mantine-color-gray5-filled);
+}
+
+.btncpn-gray40 {
+  background: var(--mantine-color-gray_40-filled);
+}
+
+.btncpn-small {
+  background: var(--mantine-color-gray_0-filled);
+  width: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 4px 4px 0px 0px;
+}
+
+.btncpn-medium {
   border-radius: 4px;
   height: 24px;
   width: 100px;
   align-items: center;
   display: flex;
   justify-content: center;
+}
+
+.btncpn-min {
+  border-radius: 4px;
+  height: 32px;
+  min-width: 50px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.btncpn-large {
+  border-radius: 4px;
+  height: 24px;
+  width: 150px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.btncpn-120 {
+  border-radius: 4px;
+  height: 32px;
+  width: 120px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.is-uppercase {
+  text-transform: uppercase;
 }
 
 .is-outline.red {
@@ -43,5 +90,26 @@
 }
 
 .gray {
-  color: #a6a6b0;
+  color: var(--mantine-color-gray_60-filled);
+}
+.gray40 {
+  color: var(--mantine-color-gray_40-filled);
+}
+
+.white {
+  color: var(--mantine-color-white-filled);
+}
+
+.btncpn-Vlarge {
+  width: 162px;
+  height: 40px;
+  border-radius: 4px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.active {
+  background-color: yellow;
+  color: black;
 }

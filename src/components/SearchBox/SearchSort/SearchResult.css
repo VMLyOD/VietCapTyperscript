@@ -1,0 +1,10 @@
+.search-result {
+  padding: 10px 20px;
+  width: 100%;
+  background: var(--mantine-color-gray_10-filled);
+  color: var(--mantine-color-gray_60-filled);
+}
+
+.search-result:hover {
+  background-color: var(--mantine-color-gray5-filled);
+}

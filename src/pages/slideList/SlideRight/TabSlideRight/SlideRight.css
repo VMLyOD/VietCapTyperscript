@@ -1,0 +1,92 @@
+.tablink {
+  background-color: #555;
+  color: var(--mantine-color-gray_60-filled);
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+.color-green {
+  color: var(--mantine-color-primary-filled);
+}
+.color-red {
+  color: var(--mantine-color-red-filled);
+}
+
+.color-yellow {
+  color: var(--mantine-color-yellow-filled);
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+.list-slide-right tab:hover {
+  background-color: none;
+}
+
+.list-slide-right {
+}
+
+.tab-slide-right button:hover {
+  background-color: none;
+}
+
+.items1 span {
+  width: auto;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.items1 .price span {
+  width: auto;
+  display: flex;
+  /* justify-content: flex-start; */
+  align-items: center;
+}
+
+.price2 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.price3 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.tabcontent {
+  color: var(--mantine-color-gray_60-filled);
+  display: none;
+  padding: 50px;
+  text-align: center;
+}
+
+.slide-lage-right {
+  background: var(--mantine-color-gray5-filled);
+}
+
+.slide-top-right {
+  /* background: black; */
+  column-gap: 8px;
+}
+
+.slide-bot-right {
+}
+.items1 {
+  color: var(--mantine-color-red-filled);
+}
+.Set-row {
+  display: grid;
+  row-gap: 10px;
+}
+
+.skenleton {
+  background: var(--mantine-color-gray-filled);
+}

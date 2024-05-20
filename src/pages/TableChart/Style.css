@@ -1,0 +1,229 @@
+.Navsort {
+  width: 100%;
+  margin-top: 4px;
+  display: flex;
+  justify-content: space-between;
+  /* height: 30px; */
+  /* background-color: #27272a; */
+  align-items: center;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+  column-gap: 15px;
+  justify-content: space-between;
+}
+
+.tab-list {
+  display: flex;
+  column-gap: 4px;
+}
+
+.IconSort {
+  /* background: #27272a; */
+  border-radius: 4px;
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: 28px;
+}
+.bnt-1 {
+  border-radius: 4px 4px 0px 0px;
+  min-width: 100px;
+  width: auto;
+  height: 30px;
+  align-items: center;
+  display: flex;
+  padding-left: 8px;
+  justify-content: flex-start;
+  /* background-color: var(--mantine-color-gray_2-filled); */
+}
+.bnt-2 {
+  border-radius: 4px 4px 0px 0px;
+  width: auto;
+  min-width: 104px;
+  height: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  display: flex;
+  padding-left: 8px;
+  background-color: #27272a;
+}
+
+.bnt-1:hover {
+  background: #00b71f;
+}
+
+.bnt-2:hover {
+  background: #00b71f;
+}
+.dropdown-content4 {
+  left: -1px;
+}
+
+.tab-list li {
+  list-style-type: none;
+  position: relative;
+  /* left: -8px; */
+  background: var(--mantine-color-gray_2-filled);
+  top: 8px;
+  transition: none 0s ease 0s;
+  cursor: move;
+  display: grid;
+  column-gap: 10px;
+}
+
+.tab-list a {
+  background: var(--mantine-color-gray_2-filled);
+}
+
+.dropdown-content4 {
+  background: none;
+}
+
+.tab-list button:hover {
+  background: var(--mantine-color-primary-filled);
+}
+
+.dropbtn {
+  background: none;
+  color: var(--mantine-color-gray_60-filled);
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  column-gap: 6px;
+}
+.dropbtn2 {
+  background: none;
+  color: var(--mantine-color-gray_60-filled);
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 10px;
+  /* justify-content: space-between; */
+}
+
+/* .is-Horvers {
+  background-color: green;
+} */
+
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content4 {
+  display: none;
+  position: absolute;
+
+  /* background-color: #f9f9f9; */
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+a {
+  border-radius: 2px;
+}
+
+.dropdown-content4 li:hover button:hover {
+  /* color: #00b71f; */
+  background: var(--mantine-color-primary-filled);
+}
+
+.is-uppercase {
+  text-transform: uppercase;
+}
+
+.dropdown-content4 button {
+  background: var(--mantine-color-gray_4-filled);
+  color: var(--mantine-color-gray_60-filled);
+  padding: 6px 8px;
+  text-decoration: none;
+
+  display: flex;
+}
+
+.dropdown-content4 {
+  top: 28px;
+}
+
+.dropdown-content4 a:hover {
+  color: green;
+}
+
+.dropdown:hover .dropdown-content4 {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  /* color: green; */
+}
+
+.Login-btn {
+  color: var(--mantine-color-gray_60-filled);
+}
+
+.tab-buttons button {
+  background-color: var(--mantine-color-gray-filled);
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.tab-buttons button.active {
+  background-color: #00b71f;
+}
+
+.indicator {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  background-color: #00b71f;
+  transition: transform 0.3s ease;
+}
+
+.active {
+  background-color: Green;
+  color: var(--mantine-color-gray_60-filled);
+}
+.value {
+  background: green;
+}
+
+.dropdown {
+  /* background-color: var(--mantine-color-gray-filled); */
+  border-radius: 4px 4px 0px 0px;
+}
+
+.active-bnt-11 {
+  background-color: var(--mantine-color-primary-filled);
+  color: var(--white);
+  border-radius: 4px 4px 0px 0px;
+}
+
+.ag-header-viewport {
+  background: var(--mantine-color-gray_10-filled);
+}
+
+.ag.row {
+  background: var(--mantine-color-gray5-filled);
+}
+
+.ag-theme-alpine .ag-row,
+.ag-theme-alpine-dark .ag-row,
+.ag-theme-alpine-auto-dark .ag-row {
+  background: var(--mantine-color-gray5-filled);
+  color: var(--mantine-color-gray_60-filled);
+}
+
+.flash-cell {
+  background-color: yellow;
+}
